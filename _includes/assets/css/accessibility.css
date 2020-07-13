@@ -1,0 +1,15 @@
+a[href="#main"] {
+    position: absolute;
+    top: 0;
+    right: 100%;
+    display: flex;
+    background: #000;
+    padding: 1em;
+    color: #fff !important;
+    z-index: 10;
+}
+
+a[href="#main"]:focus {
+    right: 0;
+    left: 0;
+}

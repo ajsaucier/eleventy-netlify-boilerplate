@@ -6,6 +6,11 @@
   <script async src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   {% set css %}
     {% include "assets/css/inline.css" %}
+    {% include "assets/css/header.css" %}
+    {% include "assets/css/nav.css" %}
+    {% include "assets/css/sidebar.css" %}
+    {% include "assets/css/footer.css" %}
+    {% include "assets/css/accessibility.css" %}
   {% endset %}
   <style>{{ css | cssmin | safe }}</style>
   {% set js %}

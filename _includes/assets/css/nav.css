@@ -1,0 +1,35 @@
+:root {
+    --nav-link-color: #2D2F32
+}
+
+nav > ul {
+    margin: 0;
+}
+
+nav > ul > li {
+    display: inline-block;
+    padding: 12px 0;
+    border-radius: 3px;
+    color: rgba(255, 255, 255, 0.75);
+    font-family: "Adelle-sans", arial;
+    font-size: 19px;
+    position: relative;
+    -ms-flex-item-align: center;
+    -ms-grid-row-align: center;
+    align-self: center;
+}
+
+nav > ul > li > a[href],
+nav > ul > li > a[href]:visited {
+    color: var(--nav-link-color);
+    font-family: benton-sans-condensed, arial;
+    font-size: 1.1rem;
+    padding: 9px 0;
+    margin: 0 15px;
+    font-weight: 700;
+    border-radius: 0;
+}
+
+nav > ul > li > a[data-current] {
+    text-decoration: underline !important;
+}

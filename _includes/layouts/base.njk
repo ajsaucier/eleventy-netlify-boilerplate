@@ -4,17 +4,23 @@
 	{% include "components/head.njk" %}
 
 	<body>
-
 		<header>
-			<em>
+			<a href="#main">Skip to main content</a>
+			<div class="logo">
+				<img src="/static/img/logo-cscu-blue.svg" width="198" height="92" alt="CSCU Digital Accessibility" />
 				<a href="{{ '/' | url }}">{{ metadata.title }}</a>
-			</em>
+			</div>
 			{% include "components/nav.njk" %}
 		</header>
 
-		<main>
-			{{ layoutContent | safe }}
-		</main>
+		<div class="page">
+			<section class="sidebar">
+				{% include "components/sidebar.njk" %}
+			</section>
+			<main id="main" role="main" tabindex="-1" class="with-sidebar">
+				{{ layoutContent | safe }}
+			</main>
+		</div>
 
 		{% include "components/footer.njk" %}
 

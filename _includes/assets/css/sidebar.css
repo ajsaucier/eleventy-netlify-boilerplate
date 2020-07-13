@@ -1,0 +1,30 @@
+.page > .sidebar {
+	flex-basis: 20rem;
+    flex-grow: 1;
+	position: relative;
+	background: var(--primary);
+}
+
+.page > .sidebar > * {
+    color: white;
+}
+
+.page > .sidebar > ul {
+    background: white;
+    box-shadow: 0 0 6px rgba(0, 0, 0, 0.1), 0 10px 20px rgba(0, 0, 0, 0.1);
+    border-radius: 12px;
+    padding: 1em;
+    list-style-type: none;
+}
+
+.page > .sidebar > ul * + * {
+    margin-top: 1em;
+}
+
+.page > .sidebar > ul li a {
+    display: block;
+}
+
+.page > .sidebar > ul li a[data-current]::after {
+    content: "dot";
+}

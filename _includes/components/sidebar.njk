@@ -1,0 +1,35 @@
+{% if page.url == "/" %}
+<h2>Quick Links</h2>
+<ul class="quick-links">
+    {% for link in quicklinks %}
+        <li>
+            <a href={{ link.url }}>{{ link.name }}</a>
+        </li>
+    {% endfor %}
+</ul>
+{% endif %}
+
+{# Set variable for each collection #}
+{# and check if the current page path #}
+{# begins with collection name #}
+{% set regExpCouncil = r/^\/council/g %}
+{% set regExpResources = r/^\/resources/g %}
+{% if regExpCouncil.test(page.url) %}
+<h2>In This Section</h2>
+<ul>
+    {%- for council in collections.council -%}
+    <li>
+        <a href="{{ council.data.permalink | url }}"{% if council.data.permalink == page.url %} data-current="current item"{% endif %}>{{ council.data.title }}</a>
+    </li>
+    {%- endfor -%}
+</ul>
+{% elif regExpResources.test(page.url) %}
+<h2>In This Section</h2>
+<ul>
+    {%- for resource in collections.resources -%}
+    <li>
+        <a href="{{ resource.data.permalink | url }}"{% if resource.data.permalink == page.url %} data-current="current item"{% endif %}>{{ resource.data.title }}</a>
+    </li>
+    {%- endfor -%}
+</ul>
+{% endif %}

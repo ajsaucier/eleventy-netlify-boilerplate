@@ -1,7 +1,8 @@
 :root {
-	--primary: blue;
+	--primary: #094175;
 	--secondary: white;
-	--background: #FFF0EB;
+	--background: #f2f3f5;
+	--font-size: 1.2rem;
 }
 
 *, *:before, *:after {
@@ -22,10 +23,6 @@ body {
 	background-color: var(--background);
 }
 
-main {
-	max-width: 37.5em;
-}
-
 p,
 pre,
 code {
@@ -41,6 +38,10 @@ a[href]:not(:hover) {
 	text-decoration: none;
 }
 
+a[href]:focus {
+	outline: 2px dashed var(--primary);
+}
+
 img {
 	max-width: 100%;
 	height: auto;
@@ -48,12 +49,28 @@ img {
 
 header,
 main,
-footer {
+footer,
+.sidebar {
 	padding: 1em;
 }
 
+.page {
+	display: flex;
+	flex-wrap: wrap;
+}
+
 main {
-	padding-bottom: 2em;
+	flex-basis: 0;
+    flex-grow: 999;
+    min-width: 66%;
+    display: flex;
+    flex-direction: column;
+	padding-bottom: 0;
+	font-size: var(--font-size);
+}
+
+main > * {
+	max-width: 50rem;
 }
 
 main :first-child,

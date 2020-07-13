@@ -9,7 +9,7 @@ const Post = createClass({
     const entry = this.props.entry;
 
     return html`
-      <main>
+      <main id="main" tabindex="-1">
         <article>
           <h1>${entry.getIn(["data", "title"], null)}</h1>
           <p>

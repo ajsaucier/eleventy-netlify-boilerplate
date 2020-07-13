@@ -1,0 +1,11 @@
+:root {
+	--gray: #26292C;
+}
+
+footer {
+    background: var(--gray);
+}
+
+footer * {
+    color: white;
+}
