@@ -19,6 +19,7 @@ header > .logo {
     display: flex;
     align-items: center;
     justify-content: center;
+    flex-wrap: wrap;
 }
 
 header > .logo > a[href], header > .logo > a[href]:visited {
