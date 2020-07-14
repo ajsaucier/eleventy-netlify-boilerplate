@@ -25,6 +25,6 @@
     display: block;
 }
 
-.page > .sidebar > ul li a[data-current]::after {
-    content: "dot";
+.page > .sidebar > ul li a[aria-current] {
+    text-decoration: underline;
 }

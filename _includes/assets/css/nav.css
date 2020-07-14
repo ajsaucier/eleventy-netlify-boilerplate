@@ -30,6 +30,6 @@ nav > ul > li > a[href]:visited {
     border-radius: 0;
 }
 
-nav > ul > li > a[data-current] {
+nav > ul > li > a[aria-current] {
     text-decoration: underline !important;
 }
