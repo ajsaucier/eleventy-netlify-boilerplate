@@ -9,12 +9,9 @@
     {% include "assets/css/header.css" %}
     {% include "assets/css/nav.css" %}
     {% include "assets/css/sidebar.css" %}
+    {% include "assets/css/tables.css" %}
     {% include "assets/css/footer.css" %}
     {% include "assets/css/accessibility.css" %}
   {% endset %}
   <style>{{ css | cssmin | safe }}</style>
-  {% set js %}
-    {% include "assets/js/inline.js" %}
-  {% endset %}
-  <script>{{ js | jsmin | safe }}</script>
 </head>
