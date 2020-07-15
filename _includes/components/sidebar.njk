@@ -15,31 +15,41 @@
 {% set regExpCouncil = r/^\/council/g %}
 {% set regExpResources = r/^\/resources/g %}
 {% set regExpTraining = r/^\/training/g %}
+
+{% set councilPages = collections.council | eleventyNavigation %}
+{% set resourcePages = collections.resources | eleventyNavigation %}
+{% set trainingPages = collections.training | eleventyNavigation %}
+
+{% macro renderNavListItem(entry) -%}
+<li>
+    <a href="{{ entry.url | url }}"{% if entry.url == page.url %} aria-current="page"{% endif %}>{{ entry.title }}</a>
+    {%- if entry.children.length -%}
+        <ul>
+            {%- for child in entry.children %}{{ renderNavListItem(child) }}{% endfor -%}
+        </ul>
+    {%- endif -%}
+</li>
+{%- endmacro %}
+
 {% if regExpCouncil.test(page.url) %}
 <h2>In This Section</h2>
-<ul>
-    {%- for council in collections.council -%}
-    <li>
-        <a href="{{ council.url | url }}"{% if council.url == page.url %} aria-current="page"{% endif %}>{{ council.data.title }}</a>
-    </li>
-    {%- endfor -%}
-</ul>
+<nav aria-label="All council pages">
+    <ul>
+        {%- for entry in councilPages %}{{ renderNavListItem(entry) }}{%- endfor -%}
+    </ul>
+</nav>
 {% elif regExpResources.test(page.url) %}
 <h2>In This Section</h2>
-<ul>
-    {%- for resource in collections.resources -%}
-    <li>
-        <a href="{{ resource.url | url }}"{% if resource.url == page.url %} aria-current="page"{% endif %}>{{ resource.data.title }}</a>
-    </li>
-    {%- endfor -%}
-</ul>
+<nav aria-label="All resources pages">
+    <ul>
+        {%- for entry in resourcePages %}{{ renderNavListItem(entry) }}{%- endfor -%}
+    </ul>
+</nav>
 {% elif regExpTraining.test(page.url) %}
 <h2>In This Section</h2>
-<ul>
-    {%- for training in collections.training -%}
-    <li>
-        <a href="{{ training.url | url }}"{% if training.url == page.url %} aria-current="page"{% endif %}>{{ training.data.title }}</a>
-    </li>
-    {%- endfor -%}
-</ul>
+<nav aria-label="All training pages">
+    <ul>
+        {%- for entry in trainingPages %}{{ renderNavListItem(entry) }}{%- endfor -%}
+    </ul>
+</nav>
 {% endif %}

@@ -1,7 +1,11 @@
 ---
-title: "Technology Adoption Considerations"
-permalink: "/resources/technology-adoption-considerations/index.html"
-tags: "resources"
+title: Technology Adoption Considerations
+permalink: /resources/technology-adoption-considerations/index.html
+tags: resources
+eleventyNavigation:
+    key: Technology Adoption Considerations
+    parent: Resources
+
 ---
 Equitable access to digital and print learning materials and technologies may vary greatly among our students and may impact student success. In order to promote an inclusive and equitable learning environment for our students, this technology adoption guide provides considerations and recommendations for content and technology choices for when faculty are designing their remote/distance learning courses.
 

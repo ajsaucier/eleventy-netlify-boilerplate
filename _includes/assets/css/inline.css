@@ -137,10 +137,6 @@ header nav li a[href]:not(:hover) {
 	text-decoration: none;
 }
 
-header nav li a[data-current="current item"] {
-	background-color: white;
-}
-
 /* Posts List */
 article {
 	margin-bottom: 1em;

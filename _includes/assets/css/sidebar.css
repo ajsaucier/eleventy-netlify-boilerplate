@@ -9,22 +9,30 @@
     color: white;
 }
 
-.page > .sidebar > ul {
+.page > .sidebar > nav {
+    padding: 0;
+    margin: 0;
     background: white;
     box-shadow: 0 0 6px rgba(0, 0, 0, 0.1), 0 10px 20px rgba(0, 0, 0, 0.1);
     border-radius: 12px;
+}
+
+.page > .sidebar > nav > ul {
     padding: 1em;
+}
+
+.page > .sidebar ul {
     list-style-type: none;
 }
 
-.page > .sidebar > ul * + * {
+.page > .sidebar > nav > ul * + * {
     margin-top: 1em;
 }
 
-.page > .sidebar > ul li a {
+.page > .sidebar ul li a {
     display: block;
 }
 
-.page > .sidebar > ul li a[aria-current] {
+.page > .sidebar ul li a[aria-current] {
     text-decoration: underline;
 }

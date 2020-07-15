@@ -2,6 +2,9 @@
 title: Council Members
 permalink: /council/members/index.html
 tags: council
+eleventyNavigation:
+    key: Council Members
+    parent: Council
 ---
 <div class="overflow" role="region" aria-labelledby="Cap1" tabindex="0">
     <table id="council">
