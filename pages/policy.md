@@ -5,4 +5,5 @@ tags: council
 eleventyNavigation: 
     key: Digital Accessibility Policy
     parent: Council
+    order: 1
 ---

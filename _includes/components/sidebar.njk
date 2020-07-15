@@ -1,12 +1,14 @@
 {% if page.url == "/" %}
 <h2>Quick Links</h2>
-<ul class="quick-links">
-    {% for link in quicklinks %}
-        <li>
-            <a href={{ link.url }}>{{ link.name }}</a>
-        </li>
-    {% endfor %}
-</ul>
+<nav aria-label="homepage quicklinks">
+    <ul class="quick-links">
+        {% for link in quicklinks %}
+            <li>
+                <a href={{ link.url }}>{{ link.name }}</a>
+            </li>
+        {% endfor %}
+    </ul>
+</nav>
 {% endif %}
 
 {# Set variable for each collection #}

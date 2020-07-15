@@ -5,6 +5,7 @@ tags: council
 eleventyNavigation:
     key: Council Members
     parent: Council
+    order: 2
 ---
 <div class="overflow" role="region" aria-labelledby="Cap1" tabindex="0">
     <table id="council">
