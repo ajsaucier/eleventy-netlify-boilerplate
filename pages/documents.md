@@ -1,10 +1,12 @@
 ---
 title: Documents
-permalink: /resources/creating-accessible-content/documents/index.html
+permalink: "/resources/creating-accessible-content/documents/index.html"
 tags: resources
 eleventyNavigation:
-    key: Documents
-    parent: Creating Accessible Content
+  key: Documents
+  parent: Creating Accessible Content
+  order: "1"
+
 ---
 ## Using the Check Accessibility tool
 
