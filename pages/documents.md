@@ -12,7 +12,7 @@ eleventyNavigation:
 
 Use the Check Accessibility tool to determine accessibility issues with your document and follow the prompts to fix issues.  The Check Accessibility tool is located under File > Info > Check for Issues in Microsoft Word 2016 and under Review in Office 365.
 
-## Eight ways to create a more accessible Microsoft Word Document. 
+## Eight ways to create a more accessible Microsoft Word Document.
 
 ### Add a Document Title
 
@@ -22,7 +22,7 @@ File Tab > Title field (at right of screen)
 
 ### Use Word Heading Styles
 
-When adding headings to a Word document, do not use regular paragraph text styled to look like a heading. Doing this will not provide semantic meaning to a screen reader. Instead, use the actual heading styles provided by Word. 
+When adding headings to a Word document, do not use regular paragraph text styled to look like a heading. Doing this will not provide semantic meaning to a screen reader. Instead, use the actual heading styles provided by Word.
 
 Home Tab > Styles Group > Select “Heading 1”, “Heading 2”, “Heading 3”, etc.
 
@@ -44,9 +44,9 @@ From that point forward, whenever you write new text and apply that heading leve
 
 ![Formatting options in Microsoft Word, with the options for different list structures circled to bring attention to them](/static/img/word-list-structure.jpg)
 
-- Home Tab > Paragraph Group > Bullets (for bulleted list)
-- Home Tab > Paragraph Group > Numbering (for basic numbered list)
-- Home Tab > Paragraph Group > Multilevel list (for more complex numbered list)
+* Home Tab > Paragraph Group > Bullets (for bulleted list)
+* Home Tab > Paragraph Group > Numbering (for basic numbered list)
+* Home Tab > Paragraph Group > Multilevel list (for more complex numbered list)
 
 ### Add Alternative Text to Meaningful Images and Figures
 
@@ -54,5 +54,42 @@ Alternative Text conveys the intended meaning of an image or figure. If an image
 
 ![Title and Description field used in Microsoft Word for adding alternative text to an image](/static/img/word-alt-text.jpg)
 
-- Right click image and select "Edit Alt Text..." from menu
-- Type alternative text into Description field
+* Right click image and select "Edit Alt Text..." from menu
+* Type alternative text into Description field
+
+### Identify Column Headers in Table Row
+
+Select top row of table > Right click/Shift + F10 > Table Properties > Row tab > select “Repeat as header row at the top of each page” checkbox.
+
+![Table properties window in Microsoft Word where header rows are set](/static/img/word-column-headers.jpg)
+
+### When Color Conveys Meaning, Use Color Plus Another Visual Cue
+
+#### Use markers, text labels or different patterns for charts and graphs
+
+_1: Line graph with no markers_
+
+![Line graph with three lines, each only using color to differentiate them](/static/img/line-graph-no-markers.jpg)
+
+_2: Line graph with markers_
+
+![Line graph with three lines, each using a different color and symbol to differentiate them](/static/img/line-graph-with-markers.jpg)
+
+#### Use additional formatting for text, or a symbol such as an asterisk
+
+An example of text formatting is when an input field on a form is required. Instead of only making the text for the field's label red, include an asterisk (and explain what the asterisk means before you use it for the first time) or explicitly add the word "(required)".
+
+### Use Good Color Contrast
+
+Check that contrast between text and background colors is at least 4.5:1 for regular text and 3.0:1 for large text.
+
+* The [Paciello Group Colour Contrast Analyser](https://www.paciellogroup.com/resources/contrastanalyser/) is an app lets you easily check color contrast
+* The [WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker/) is a great tool that works right in your browser
+
+### Use Descriptive Link Text
+
+Make descriptive link text the active link in a document, and put the actual web address (URL) in plain text. This makes sure that people can use the link whether the document is digital or printed.
+
+In the Insert Hyperlink window, “Text to display” is the descriptive link text and “Address” is the actual web address.
+
+![Insert Hyperlink window in Microsoft Word shows a new link being inserted with the text "Fill out our webinar evaluation here!" leading to a web address](/static/img/word-descriptive-link-text.jpg)
