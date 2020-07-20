@@ -54,6 +54,7 @@ Alternative Text conveys the intended meaning of an image or figure. If an image
 
 ![Title and Description field used in Microsoft Word for adding alternative text to an image](/static/img/word-alt-text.jpg)
 
+* Ensure that all of your image alignments are set to In line with text
 * Right click image and select "Edit Alt Text..." from menu
 * Type alternative text into Description field
 
@@ -93,3 +94,18 @@ Make descriptive link text the active link in a document, and put the actual web
 In the Insert Hyperlink window, “Text to display” is the descriptive link text and “Address” is the actual web address.
 
 ![Insert Hyperlink window in Microsoft Word shows a new link being inserted with the text "Fill out our webinar evaluation here!" leading to a web address](/static/img/word-descriptive-link-text.jpg)
+
+### Avoid hitting Enter or Return after a heading to create extra space
+
+Hitting the Enter or Return key after a heading will give the visual appearance of a blank space but will be detected by assistive technologies as an empty heading element. This can be very confusing to assistive technology users. You should instead increase the spacing after the text.
+
+1. Highlight text after which you want the space
+2. Right-click on the highlighted text
+3. Click "Paragraph" in the menu that appears
+4. Increase the Spacing after the paragraph
+5. Click the OK button
+
+### Sources and Further Reading
+
+* [Microsoft Word Accessibility Quick Reference (PDF)](https://www.at3center.net/Content/EOCONTENTMEDIACENTER/documents/ICT/2018-AT3_QuickRef_Word.pdf) from AT3 Center
+* [UConn IT Accessibility Documents page (external link)](https://accessibility.its.uconn.edu/documents/)
