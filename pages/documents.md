@@ -105,6 +105,8 @@ Hitting the Enter or Return key after a heading will give the visual appearance 
 4. Increase the Spacing after the paragraph
 5. Click the OK button
 
+![demonstrating paragraph spacing using the paragraph dialog box](/static/img/word-space-after-paragraph.png)
+
 ### Sources and Further Reading
 
 * [Microsoft Word Accessibility Quick Reference (PDF)](https://www.at3center.net/Content/EOCONTENTMEDIACENTER/documents/ICT/2018-AT3_QuickRef_Word.pdf) from AT3 Center
