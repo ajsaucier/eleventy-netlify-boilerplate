@@ -1,17 +1,13 @@
 a[href="#main"] {
-    position: absolute;
-    top: 0;
-    right: 100%;
+    position: relative;
     display: flex;
-    background: #000;
-    padding: 1em;
+    background: var(--nav-link-color);
+    padding: 0.5em 1em;
     color: #fff !important;
-    z-index: 10;
 }
 
 a[href="#main"]:focus {
-    right: 0;
-    left: 0;
+    text-decoration: underline;
 }
 
 .visually-hidden { 
