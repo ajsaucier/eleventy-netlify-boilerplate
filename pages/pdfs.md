@@ -1,6 +1,6 @@
 ---
 title: PDFs
-permalink: "/resources/creating-accessible-content/"
+permalink: "/resources/creating-accessible-content/pdfs/index.html"
 tags: resources
 eleventyNavigation:
   key: PDFs
