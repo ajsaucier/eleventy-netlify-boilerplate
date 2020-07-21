@@ -10,4 +10,4 @@ eleventyNavigation:
 ---
 ## Converting a Document to PDF
 
-The most reliable way to make an accessible PDF is to start with an accessible source document and [convert that document to a tagged PDF. (external link)](https://webaim.org/techniques/acrobat/converting#word). Making a document accessible using Acrobat is a more difficult and unreliable method.
+The most reliable way to make an accessible PDF is to start with an accessible source document and [convert that document to a tagged PDF (external link)](https://webaim.org/techniques/acrobat/converting#word). Making a document accessible using Acrobat is a more difficult and unreliable method.
