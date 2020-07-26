@@ -52,7 +52,21 @@ You can also add/edit the following tags in the **_Reading Order_** tool:
 
 #### Images and Alternative Text
 
+##### Decorative images
+
 1. To tag a decorative image correctly, left-click on the white square with the number inside of it when a hand icon appears.   
    ![Screenshot of an image in Adobe Acrobat, highlighted in tag view](/static/img/pdf-figure-tag.png)
 2. When the buttons in the **_Reading Order_** window become enabled, click the "Background/Artifact" button.  
    ![Reading Order window in Adobe Acrobat with the Background/Artifact button circled for emphasis](/static/img/pdf-reading-order-background-tag.png)
+
+##### Descriptive images
+
+1. Right-click on the white square with the number inside of it on the image you want to add alternative text to.
+2. Choose the "Edit Alternate Text..." option in the resulting menu.  
+   ![Edit alternate text option in a popup menu in Adobe Acrobat](/static/img/pdf-edit-alternate-text.png) 
+
+#### Table Headers
+
+1. Select a table and then select **_Table Inspector._** Table header cells will be identified in red.
+2. **_Select a table or cell_** by dragging a box through the cells (not around them or you might select additional cells). **_Right click_** on a selected cell(s) and choose **_Table Cell Properties._** A dialog box will appear.
+3. If the selected cell(s) needs to be tagged as a header, select the **_Header Cell_** option and assign a scope of either **_Row_** or **_Column._**
