@@ -1,9 +1,9 @@
 ---
 title: test page
-permalink: "/resources/test.html"
-tags: test
+permalink: "/resources/test/index.html"
+tags: resources
 eleventyNavigation:
-  key: Resources
+  key: Test
   parent: Resources
   order: 3
 
