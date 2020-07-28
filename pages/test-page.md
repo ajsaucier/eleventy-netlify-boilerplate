@@ -3,8 +3,8 @@ title: test page
 permalink: "/resources/test.html"
 tags: test
 eleventyNavigation:
-  key: ''
-  parent: resources
+  key: Resources
+  parent: Resources
   order: 3
 
 ---
