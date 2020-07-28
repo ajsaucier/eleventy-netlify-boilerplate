@@ -4,8 +4,8 @@ permalink: "/resources/test.html"
 tags: test
 eleventyNavigation:
   key: ''
-  parent: ''
-  order: 
+  parent: resources
+  order: 3
 
 ---
 # Hello World
