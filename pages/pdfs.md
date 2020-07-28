@@ -48,13 +48,32 @@ The **_Reading Order_** tool allows a user to quickly **_add and edit PDF tags_*
 4. Select the **_Structure Types_** radio button. The page will now display tag types instead of reading order.
 5. Within the **_Reading Order_** window you will notice a group of buttons with the names of several common tags. You can use these buttons to assign tags to selected text or objects. Use the **_Text_** button for body text and the **_Heading 1-6_** buttons to assign correct heading levels.
 
+#### Check if a tag exists
+
+Sometimes, you'll find that an element is visually present on the page but that a tag for that element does not exist. To check for a tag's existence:
+
+1. Highlight the text in the document that you suspect might not have a related tag
+2. Choose the **_Tags_** tool in the left sidebar
+3. Click the the **Options** button in the top left corner - the icon looks like a checklist with two options with a small upside down triangle next to it
+4. Choose the **"Find Tag from Selection"** option  
+   ![Screenshot of text highlighted in PDF with the Tags tool selected and Find Tag from Selection option highlighted](/static/img/pdf-find-tag.png)
+5. If a popup appears with the content **"The selection was not found."**, a tag will need to be added for the highlighted content
+
+#### Adding a New Tag
+
+1. In the **_Tags_** tool on the left side of the screen, right-click on the tag above where you want the new one to appear
+2. Choose the **"New Tag..."** option and select the correct type of tag to be added, then click the **OK** button.
+3. Highlight the content in the document that needs the new tag to be attached to it
+4. Back in the **_Tags_** tool, right-click on the new tag created and select the **"Create Tag from Selection"** option  
+   ![Screenshot of the Tags tool being used in Adobe Acrobat to create a new tag from a selection of text](/static/img/pdf-create-tag.png)
+
 You can also add/edit the following tags in the **_Reading Order_** tool:
 
 #### Images and Alternative Text
 
 ##### Decorative images
 
-1. To tag a decorative image correctly, left-click on the white square with the number inside of it when a hand icon appears.   
+1. To tag a decorative image correctly, left-click on the white square with the number inside of it when a hand icon appears.  
    ![Screenshot of an image in Adobe Acrobat, highlighted in tag view](/static/img/pdf-figure-tag.png)
 2. When the buttons in the **_Reading Order_** window become enabled, click the "Background/Artifact" button.  
    ![Reading Order window in Adobe Acrobat with the Background/Artifact button circled for emphasis](/static/img/pdf-reading-order-background-tag.png)
@@ -63,10 +82,18 @@ You can also add/edit the following tags in the **_Reading Order_** tool:
 
 1. Right-click on the white square with the number inside of it on the image you want to add alternative text to.
 2. Choose the "Edit Alternate Text..." option in the resulting menu.  
-   ![Edit alternate text option in a popup menu in Adobe Acrobat](/static/img/pdf-edit-alternate-text.png) 
+   ![Edit alternate text option in a popup menu in Adobe Acrobat](/static/img/pdf-edit-alternate-text.png)
 
 #### Table Headers
 
 1. Select a table and then select **_Table Inspector._** Table header cells will be identified in red.
 2. **_Select a table or cell_** by dragging a box through the cells (not around them or you might select additional cells). **_Right click_** on a selected cell(s) and choose **_Table Cell Properties._** A dialog box will appear.
 3. If the selected cell(s) needs to be tagged as a header, select the **_Header Cell_** option and assign a scope of either **_Row_** or **_Column._**
+
+#### View and Edit Reading Order
+
+Reading order is one of the most important aspects of an accessible PDF. Assistive technology needs to be told in what order to read items on the page - it cannot determine the correct order based solely on the visual order of things. It makes the most sense to manually set the reading order based on how the content appears visually in the document.
+
+1. Select the **_Order_** tool in the left sidebar - the icon shows a grid of four squares with a line flowing from one square to the next  
+   ![Screenshot of left sidebar in Adobe Acrobat, with the Order tool icon highlighted by a red border for emphasis](/static/img/pdf-order-tool.png)
+2. Click and drag items to move them before or after other elements on the page to make them reflect the correct (visual) reading order
