@@ -26,4 +26,3 @@ fields:
     label: order
 pages:
 - pages/pdfs.md
-- pages/test-page.md
