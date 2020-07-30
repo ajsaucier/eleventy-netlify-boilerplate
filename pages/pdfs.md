@@ -97,3 +97,8 @@ Reading order is one of the most important aspects of an accessible PDF. Assisti
 1. Select the **_Order_** tool in the left sidebar - the icon shows a grid of four squares with a line flowing from one square to the next  
    ![Screenshot of left sidebar in Adobe Acrobat, with the Order tool icon highlighted by a red border for emphasis](/static/img/pdf-order-tool.png)
 2. Click and drag items to move them before or after other elements on the page to make them reflect the correct (visual) reading order
+
+## Sources and Further Reading
+
+* [Creating Accessible PDF Documents in Adobe Acrobat XI (external link)](http://ncdae.org/resources/cheatsheets/acrobat-xi.php) from The National Center on Disability and Access to Education
+* [UConn IT Accessibility PDFs page (external link)](https://accessibility.its.uconn.edu/pdfs/)
