@@ -73,8 +73,25 @@ PowerPoint **_automatically creates a hyperlink_** when a user pastes a full URL
 
 ## Accessibility Checker
 
+Most Microsoft Office products have an Accessibility Checker. It is always a good idea to use it throughout the process of creating a document, and of course at the end of the process before uploading it to the learning management system.
+
+On a Mac, select the Review tab in the toolbar and you will see the Check Accessibility option.
+
+![Screenshot of Review tab with Check Accessibility option highlighted using PowerPoint on a Mac.](/static/img/ppt-accessibility-checker-mac.png)
+
+On a PC, follow these instructions:
+
+1. Select _File > Info_.
+2. Select the _Check for Issues_ button and choose _Check Accessibility_.
+3. The _Accessibility Checker_ task pane will show accessibility errors, warnings, and tips on how to repair the errors.
+
+![screenshot of selecting Check Accessibility](/static/img/ppt-accessibility-checker-pc.png)
+
+Select specific issues to see _Additional Information_ at the bottom of the pane.
+
 ## Sources and Further Reading
 
 * [Creating Accessible Microsoft PowerPoint 2016 Presentations (Windows) (external link)](http://ncdae.org/resources/cheatsheets/powerpoint2016.php) from National Center on Disability and Access to Education
+* [Creating Accessible Microsoft PowerPoint 2016 Presentations (Mac) (external link)](http://ncdae.org/resources/cheatsheets/powerpoint2016-mac.php) from National Center on Disability and Access to Education
 * [Make your PowerPoint presentations accessible to people with disabilities (external link)]() from Microsoft
 * [PowerPoint Accessibility (external link)](https://webaim.org/techniques/powerpoint/) from WebAIM
