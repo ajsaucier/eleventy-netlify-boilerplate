@@ -46,3 +46,24 @@ Images should be given **_appropriate_** [**_alternative text_** (external link)
 3. Enter appropriate Alt text only in the _Description_ field (not the _Title_ field).
 
 Alternatively, double-click on the image and the Alt Text option will appear in the Picture Format toolbar at the top of the application.
+
+![screenshot of Alt text tab](/static/img/ppt-alt-text.png)
+
+## Data Tables
+
+Accessible tables need a **_clear table structure_** and **_table headers_** to help guide a screen reader user.
+
+1. Select the _Insert_ tab on the ribbon, then select _Table > Insert Table_.  
+   ![screenshot of selecting Table on the Insert ribbon](/static/img/ppt-insert-table.png)
+   1. **_Keep tables simple._** Complex tables - such as those with cells spanning multiple columns or rows or with headers for both columns and rows - should not be created in PowerPoint.
+2. Position the cursor anywhere in a table.
+3. Select the **Design** tab.
+4. In the **Table Style Options**, select the **Header Row** check box.
+5. In the table, type the column headings.  
+   ![Screenshot of the Header Row check box in the Table Style Options group on the Table Tools Design tab](/static/img/ppt-table-headers.png)
+
+## Sources and Further Reading
+
+* [Creating Accessible Microsoft PowerPoint 2016 Presentations (Windows) (external link)](http://ncdae.org/resources/cheatsheets/powerpoint2016.php) from National Center on Disability and Access to Education
+* [Make your PowerPoint presentations accessible to people with disabilities (external link)]() from Microsoft
+* [PowerPoint Accessibility (external link)](https://webaim.org/techniques/powerpoint/) from WebAIM
