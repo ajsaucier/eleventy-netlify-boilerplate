@@ -62,6 +62,17 @@ Accessible tables need a **_clear table structure_** and **_table headers_** to 
 5. In the table, type the column headings.  
    ![Screenshot of the Header Row check box in the Table Style Options group on the Table Tools Design tab](/static/img/ppt-table-headers.png)
 
+## Hyperlinks
+
+PowerPoint **_automatically creates a hyperlink_** when a user pastes a full URL onto a slide and presses _Enter_ or _Space_. These may not make sense to screen reader users or others, so make the link text descriptive.
+
+1. Select a hyperlink, right click, and select _Edit Hyperlink_ or hit _Ctrl/Cmd + k_.
+2. Change the text in the _Text to Display_ field to a more meaningful description.
+
+![Screenshot of the Edit Hyperlink menu, highlighting the Text to Display field.](/static/img/ppt-hyperlinks.png)
+
+## Accessibility Checker
+
 ## Sources and Further Reading
 
 * [Creating Accessible Microsoft PowerPoint 2016 Presentations (Windows) (external link)](http://ncdae.org/resources/cheatsheets/powerpoint2016.php) from National Center on Disability and Access to Education
