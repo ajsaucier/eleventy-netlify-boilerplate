@@ -19,3 +19,7 @@ eleventyNavigation:
 7. Then click **Show Transcript**.
 8. If the system is still processing the transcript, you may receive the following message.
 9. Once complete, you will see a CC closed captioning option appear within your video playback options.
+
+## Resources and Further Reading
+
+* [Microsoft Teams Quick Start Guide (PDF)](https://pulse.microsoft.com/uploads/prod/2020/03/Microsoft_Teams_Quickstart.pdf)
