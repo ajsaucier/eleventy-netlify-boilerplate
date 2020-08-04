@@ -1,11 +1,11 @@
 ---
 title: Microsoft Teams
-permalink: "/training/microsoft-teams/index.html"
-tags: training
+permalink: "/resources/microsoft-teams/index.html"
+tags: resources
 eleventyNavigation:
   key: Microsoft Teams
-  parent: Training
-  order: 1
+  parent: Resources
+  order: 3
 
 ---
 ## Captioning a Recorded Teams Meeting
