@@ -1,6 +1,6 @@
 ---
 title: Microsoft Teams
-permalink: "/training/microsoft-teams"
+permalink: "/training/microsoft-teams/index.html"
 tags: training
 eleventyNavigation:
   key: Microsoft Teams
