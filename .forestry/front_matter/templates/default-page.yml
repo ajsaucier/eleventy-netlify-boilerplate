@@ -25,5 +25,6 @@ fields:
     name: order
     label: order
 pages:
+- pages/microsoft-teams.md
 - pages/pdfs.md
 - pages/powerpoint.md
