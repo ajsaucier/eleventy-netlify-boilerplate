@@ -78,7 +78,7 @@ main {
 	font-size: var(--font-size);
 }
 
-main > * {
+main > *:not(.icons) {
 	max-width: 50rem;
 }
 
@@ -177,6 +177,25 @@ a[rel="tag"]:hover {
 
 a[rel="tag"]:last-child {
 	margin-right: 0;
+}
+
+/* Home page icons */
+.icons {
+	display: grid;
+  	grid-gap: 1rem;
+  	grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+}
+
+.icons > * {
+	display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	align-items: center;
+	justify-content: center;
+}
+
+.credit {
+	font-size: 0.9rem;
 }
 
 /* Contact Form */
