@@ -1,7 +1,8 @@
 ---
 title: Creating Accessible Content
 permalink: "/resources/creating-accessible-content/index.html"
-tags: []
+tags:
+- resources
 eleventyNavigation:
   key: Creating Accessible Content
   parent: Resources
