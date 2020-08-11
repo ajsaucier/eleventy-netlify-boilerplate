@@ -1,10 +1,10 @@
 ---
 title: Microsoft Teams
-permalink: "/resources/microsoft-teams/index.html"
-tags: resources
+permalink: "/training/microsoft-teams/index.html"
+tags: training
 eleventyNavigation:
   key: Microsoft Teams
-  parent: Resources
+  parent: Training
   order: 3
 
 ---
