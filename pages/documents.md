@@ -1,7 +1,7 @@
 ---
 title: Documents
-permalink: "/resources/creating-accessible-content/documents/index.html"
-tags: resources
+permalink: "/training/creating-accessible-content/documents/index.html"
+tags: []
 eleventyNavigation:
   key: Documents
   parent: Creating Accessible Content
