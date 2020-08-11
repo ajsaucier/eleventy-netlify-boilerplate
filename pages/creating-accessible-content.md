@@ -4,7 +4,7 @@ permalink: "/resources/creating-accessible-content/index.html"
 tags: []
 eleventyNavigation:
   key: Creating Accessible Content
-  parent: Training
+  parent: Resources
   order: "2"
 
 ---
