@@ -8,6 +8,10 @@ eleventyNavigation:
   order: 3
 
 ---
+## Installing Microsoft Teams
+
+## Microsoft Teams Basics
+
 ## Captioning a Recorded Teams Meeting
 
 1. Once your recording is complete, visit **Streams** and select the video you want to review.
