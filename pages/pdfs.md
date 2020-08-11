@@ -1,7 +1,7 @@
 ---
 title: PDFs
-permalink: "/resources/creating-accessible-content/pdfs/index.html"
-tags: resources
+permalink: "/training/creating-accessible-content/pdfs/index.html"
+tags: training
 eleventyNavigation:
   key: PDFs
   parent: Creating Accessible Content
