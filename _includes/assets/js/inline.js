@@ -77,3 +77,12 @@ function AddTableARIA() {
 
 AddTableARIA();
 
+function lazyLoadImages() {
+  let images = Array.from(document.getElementsByTagName('img'))
+  images.forEach((image) => {
+    image.setAttribute('loading', 'lazy')
+  })
+}
+
+lazyLoadImages();
+
