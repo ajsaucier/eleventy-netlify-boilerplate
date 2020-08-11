@@ -1,7 +1,7 @@
 ---
 title: PowerPoint
-permalink: "/resources/creating-accessible-content/powerpoint/index.html"
-tags: resources
+permalink: "/training/creating-accessible-content/powerpoint/index.html"
+tags: training
 eleventyNavigation:
   key: PowerPoint
   parent: Creating Accessible Content
