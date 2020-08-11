@@ -1,6 +1,6 @@
 ---
 title: Creating Accessible Content
-permalink: "/training/creating-accessible-content/index.html"
+permalink: "/resources/creating-accessible-content/index.html"
 tags: []
 eleventyNavigation:
   key: Creating Accessible Content
