@@ -1,7 +1,8 @@
 ---
 title: Creating Accessible Content
 permalink: "/training/creating-accessible-content/index.html"
-tags: []
+tags:
+- training
 eleventyNavigation:
   key: Creating Accessible Content
   parent: Training
