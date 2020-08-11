@@ -8,4 +8,4 @@ eleventyNavigation:
   order: "1"
 
 ---
-Creating accessible content is foundational in having a learning environment that delivers education to all students.
+Creating accessible content is foundational in having a learning environment that delivers education to all students. 
