@@ -25,6 +25,7 @@ fields:
     name: order
     label: order
 pages:
+- pages/course-content-checklist.md
 - pages/microsoft-teams.md
 - pages/pdfs.md
 - pages/powerpoint.md
