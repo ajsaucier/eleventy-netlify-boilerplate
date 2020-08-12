@@ -10,7 +10,7 @@ eleventyNavigation:
 ---
 The following checklist has been designed to assist you in identifying key areas of your course that may need alterations to make the learning experience more inclusive and accessible to all students, in alignment with ADA and Section 508 (Americans with Disabilities Act).
 
-<div tabindex="0" role="region" aria-describedby="capt1">
+<div tabindex="0" role="region" aria-describedby="capt1" class="overflow">
 	<table>
 		<caption id="capt1">Section 1: Overall Course Design</caption>
 		<tr>
@@ -84,13 +84,7 @@ The following checklist has been designed to assist you in identifying key areas
 						<a href="http://www.sandburg.edu/About/FTLC/Assets/Accessibility%20Documents/evaluating-publisher-content-for-accessibility.pdf">
 							Evaluating Publisher Content
 							for Accessibility
-						</a>
-						(
-						<a href="http://www.sandburg.edu/">
-							www.Sandburg.edu
-						</a>
-						)
-
+						</a> (<a href="http://www.sandburg.edu/">www.Sandburg.edu</a>)
 					</li>
 					<li>
 						<a href="https://www.colorado.edu/accessible-technology/e-text-accessibility-evaluation-process">
