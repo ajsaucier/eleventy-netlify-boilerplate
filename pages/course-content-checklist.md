@@ -84,7 +84,7 @@ The following checklist has been designed to assist you in identifying key areas
 						<a href="http://www.sandburg.edu/About/FTLC/Assets/Accessibility%20Documents/evaluating-publisher-content-for-accessibility.pdf">
 							Evaluating Publisher Content
 							for Accessibility
-						</a> (<a href="http://www.sandburg.edu/">www.Sandburg.edu</a>)
+						</a> - <a href="http://www.sandburg.edu/">www.Sandburg.edu</a>
 					</li>
 					<li>
 						<a href="https://www.colorado.edu/accessible-technology/e-text-accessibility-evaluation-process">
