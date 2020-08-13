@@ -482,6 +482,14 @@ The following checklist has been designed to assist you in identifying key areas
 <div tabindex="0" role="region" aria-describedby="capt3">
 	<table>
 		<caption id="capt3">Section 3: Multimedia and Images</caption>
+      	<tr>
+			<th scope="col">Category</th>
+			<th scope="col">Criteria</th>
+			<th scope="col">Yes</th>
+			<th scope="col">No</th>
+			<th scope="col">N/A</th>
+			<th scope="col">Resources</th>
+		</tr>
 		<tr>
 			<th scope="row">Alternative Text (Alt text) and Images</th>
 			<td>
