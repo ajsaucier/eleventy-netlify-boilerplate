@@ -36,3 +36,9 @@
 .page > .sidebar ul li a[aria-current] {
     text-decoration: underline;
 }
+
+@media print {
+    .page > .sidebar > nav {
+        box-shadow: none;
+    }
+}

@@ -78,7 +78,7 @@ main {
 	font-size: var(--font-size);
 }
 
-main > *:not(.icons) {
+main > *:not(.icons):not(.overflow) {
 	max-width: 50rem;
 }
 

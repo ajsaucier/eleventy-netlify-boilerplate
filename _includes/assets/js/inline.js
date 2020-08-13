@@ -38,6 +38,9 @@ function ResponsiveCellHeaders(elmID) {
   }
 }
 ResponsiveCellHeaders("council");
+ResponsiveCellHeaders("sec1");
+ResponsiveCellHeaders("sec2");
+ResponsiveCellHeaders("sec3");
 
 // https://adrianroselli.com/2018/02/tables-css-display-properties-and-aria.html
 // https://adrianroselli.com/2018/05/functions-to-add-aria-to-tables-and-lists.html

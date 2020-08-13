@@ -11,7 +11,7 @@ eleventyNavigation:
 The following checklist has been designed to assist you in identifying key areas of your course that may need alterations to make the learning experience more inclusive and accessible to all students, in alignment with ADA and Section 508 (Americans with Disabilities Act).
 
 <div tabindex="0" role="region" aria-describedby="capt1" class="overflow">
-	<table>
+	<table id="sec1">
 		<caption id="capt1">Section 1: Overall Course Design</caption>
 		<tr>
 			<th scope="col">Category</th>
@@ -147,8 +147,8 @@ The following checklist has been designed to assist you in identifying key areas
 	</table>
 </div>
 
-<div tabindex="0" role="region" aria-describedby="capt2">
-	<table>
+<div tabindex="0" role="region" aria-describedby="capt2" class="overflow">
+	<table id="sec2">
 		<caption id="capt2">Section 2: Documents</caption>
 		<tr>
 			<th scope="col">Category</th>
@@ -479,8 +479,8 @@ The following checklist has been designed to assist you in identifying key areas
 	</table>
 </div>
 
-<div tabindex="0" role="region" aria-describedby="capt3">
-	<table>
+<div tabindex="0" role="region" aria-describedby="capt3" class="overflow">
+	<table id="sec3">
 		<caption id="capt3">Section 3: Multimedia and Images</caption>
       	<tr>
 			<th scope="col">Category</th>
