@@ -82,11 +82,11 @@ Electronic documents, optional and required, must be accessible. Electronic inte
 
 ###### All Faculty, Staff, Administrators, Contractors, and Vendors:
 
-Implement procedures for ensuring that electronic documents produced, maintained or distributed by the department are accessible to individuals with disabilities.
+* Implement procedures for ensuring that electronic documents produced, maintained or distributed by the department are accessible to individuals with disabilities.
 
 ###### Libraries
 
-Implement procedures for ensuring that materials digitized or hosted by the library are accessible to individuals with disabilities.
+* Implement procedures for ensuring that materials digitized or hosted by the library are accessible to individuals with disabilities.
 
 ##### _1.1.4 Resources_
 
@@ -97,3 +97,152 @@ Provide accessible document instruction and support for campus community members
 #### 1.2 Digital Media Accessibility and Captioning
 
 ##### _1.2.1 Scope_
+
+Media resources used in all CSCU programs and activities must be accessible. This includes, but is not limited to, media that is instructional, informational, marketing, and promotional.
+
+##### _1.2.2 Standards_
+
+Video media resources must provide captioning that is 99% accurate, synchronous, complete, and properly placed. Audio resources must be transcribed and be 99% accurate.
+
+##### _1.2.3 Roles_
+
+###### All Faculty, Staff, Administrators, Contractors, and Vendors:
+
+* Purchase only captioned versions of audio/visual media whenever possible. Caption all other media that will be used on the web or in instruction.
+* Purchase only transcribed versions of audio media whenever possible.
+* Update any non-transcribed audio and any non-captioned video upon use.
+
+###### Libraries:
+
+* Maintain collections that include transcribed audio and captioned video resources.
+* Ensure collections include transcriptions/captioning. In instances where collections consist of non-transcribed audio and non-captioned media, seek out accessible alternatives for transcription and captioning.
+
+###### IT:
+
+* Continuously assess classroom and presentation equipment to ensure caption-compatibility.
+
+###### Communications/Marketing:
+
+* Produce all multimedia communications and promotional materials that are captioned or transcribed.
+* Produce all digital communications including emails, newsletters, social media posts and website announcements that meet accessibility standards.
+* Assess and update existing inaccessible communications and promotional materials upon use.
+
+##### _1.2.4 Resources_
+
+###### Libraries:
+
+* Serve as a resource for faculty seeking to identify materials that are captioned prior to purchase.
+
+###### Centers for Teaching/Faculty Development:
+
+* Incorporate captioning and media accessibility information into training.
+* Provide assistance in creating videos and coordinating captioning services.
+
+###### Accessibility/Disability Services:
+
+* Coordinate captioning services on behalf of students registered with Accessibility/Disability Services.
+* Provide assistance in establishing account(s) with third-party captioning vendors.
+* Provide assistance to faculty who have students registered with Accessibility/Disability Services in their classes.
+
+###### Faculty and Staff involved in Centers for Teaching and Learning, Course Design, Distance Education, Accessibility/Disability Services, Information Technology, Webmasters
+
+* Maintain and continue to provide instructions on media accessibility (such as captioning media and transcribing audio) as well as how to show captioned media in classrooms.
+* Incorporate accessibility into faculty training on AV equipment.
+* Ensure digital media services provide for closed captioning and audio description services.
+
+### 2. Standards: External-Facing EIT
+
+#### 2.1 Web Accessibility
+
+##### _2.1.1 Scope_
+
+These standards apply to all Connecticut State College and University (CSCU) institution web pages and programs in digital format, including all digital instructional material, made publicly available. The scope covers all content produced internally or through a 3rd party.
+
+##### _2.1.2 Standards_
+
+Web pages, websites, digital instructional material, and web-based software published, hosted, and/or linked to by all CSCU institutions are to meet the standards and guidelines outlined in the WCAG Guidelines (as defined in the **Technical Standards** section).
+
+##### _2.1.3 Roles_
+
+###### All Faculty, Staff, Administrators, Contractors, and Vendors:
+
+* Comply with the web accessibility standards (as defined in the **Technical Standards** section) when creating web content, sites, and programs.
+
+###### IT, Webmasters, Media, Communications, Content Owners
+
+* At least bi-monthly, run accessibility checks on external-facing websites and provide content owners with details for remediation or correct issues if feasible.
+
+##### _2.1.4 Resources_
+
+###### Faculty and Staff involved in Centers for Teaching and Learning, Course Design, Distance Education, Accessibility/Disability Services, Information Technology, Webmasters:
+
+* Provide instruction and support for campus community members creating CSCU institutional websites, website pages and content so that individuals who author web content can be trained according to these standards.
+* Recommend that any digital content authoring tool or platform proposed and supported by central IT conform to WCAG and ATAG standards.
+
+### 3. Standards: Internal-Facing EIT
+
+#### 3.1 Instructional Materials Accessibility
+
+These procedures apply to digital instructional materials (including but not limited to websites, documents, media, syllabi, textbooks, presentations, and handouts). This includes digital instructional materials delivered within the institution’s learning management system, in face-to-face classes, or in an alternate fashion (email, blogs, etc.) and electronic instructional activities (online collaborative writing, web conferencing, etc.).
+
+##### _3.1.2 Standards_
+
+Internally facing digital instructional materials, optional and required, must be accessible and as effective and usable **upon request** for persons with disabilities as they are for persons without disabilities. Instructional materials must meet applicable WCAG standards and guidelines as outlined in these procedures and be made available to all students at the same time. If the materials cannot be identical, an equivalent alternative must be provided.
+
+##### _3.1.3 Roles_
+
+###### All Faculty, Staff, Administrators, Contractors, and Vendors:
+
+* Provide instructional materials that comply with all requirements outlined in these procedures.
+* Maintain physical and virtual classrooms that use and deliver accessible information and communication technology.
+* Ensure assistive technologies such as screen reading software and screen magnification in computer labs provided for student use.
+* Check that applications developed on campus (web, desktop, etc.) are accessible according to principles of WCAG 2.1 AA level, WAI-Aria 1.1, and ATAG 2.0 standards (extrapolated as needed for non-web environments).
+
+###### Faculty and Instructional Staff:
+
+* Create and present instructional material that can be made readily accessible.
+
+###### IT:
+
+* Facilitate the hosting of online activities in an accessible learning management system and related hosted systems (such as web conferencing) that are accessible.
+* Use accessible information and communication technology in IT-designed and supported Technology Classrooms.
+* Monitor informational IT web pages and implement accessible software and procedures found on those pages.
+
+###### Libraries**:**
+
+* Provide an accessible tool for searching across all library collections, including, but not limited to, eJournals, databases, and eBooks.
+* Ensure all digital collections, including but not limited to databases, eBooks, and eJournals, meet accessibility standards.
+* At least b-monthly, coordinate accessibility scans to ascertain whether any posted content is inaccessible. The Library will notify content authors if corrections to pages are needed and of reasonable timelines for corrections to be made. The Library will note if corrective action has been taken during the next monthly scan.
+
+##### _3.1.4 Resources_
+
+###### Faculty and Staff involved in Centers for Teaching and Learning, Course Design, Distance Education, Accessibility/Disability Services, Information Technology, Webmasters:
+
+* Provide instruction and support for campus community members creating online courses and online instructional content.
+* Coordinate support for non-central IT and campus units needing assistance with accessibility in departmentally supported technology classrooms.
+
+###### Accessibility/Disability Services Office:
+
+* Serve as a clearing house for information about assistive technology and modifications recommended.
+* Provide students with assistive technology software and hardware and instruct them how to install and use it.
+
+### 4. Standards: Software, Hardware and Systems Accessibility
+
+#### 4.1 Scope
+
+Software, hardware and systems purchased, developed, and maintained must be accessible and must produce accessible products. Accessible, in this context, means compatible with assistive technology. Examples of software, hardware and systems include, but are not limited to, learning, library, and content management systems, communication and administrative management systems such as email, finance, registration and human resources, and all software, hardware and software services used for student services. Software includes freeware, shareware, desktop, enterprise, subscription and remotely-hosted options.
+
+#### 4.2 Standards
+
+The following standards and guidelines are to be used to assess accessibility:
+
+* [US Access Board’s Guide 508 Standards - Software Applications and Operating Systems](http://www.access-board.gov/sec508/guide/1194.21.htm) ([https://bit.ly/2bMTGto](https://bit.ly/2bMTGto "https://bit.ly/2bMTGto"))
+* [How to Meet WCAG (Quick Reference)](https://www.w3.org/WAI/WCAG21/quickref/)
+
+##### _Procurement_
+
+[Section 508 of the Rehabilitation Act](https://www.section508.gov/manage/laws-and-policies) (29 U.S.C. § 794d), as amended by the Workforce Investment Act of 1998 (P.L. 105-220) requires federal agencies to develop, procure, maintain and use information and communications technology (ICT) that is accessible to people with disabilities - regardless of whether or not they work for the federal government.
+
+The [US Access Board](https://www.access-board.gov/) established the Section 508 standards that implement the law and provides the requirements for accessibility.
+
+Since CSCU receives federal funding, it must adhere to the revised Section 508 standards during the selection and procurement of ICT.
