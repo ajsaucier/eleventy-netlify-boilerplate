@@ -24,19 +24,6 @@ fields:
   - type: number
     name: order
     label: order
-- name: table_of_contents
-  type: boolean
-  label: table of contents
-- name: toc_page_template
-  type: text
-  config:
-    required: false
-  hidden: true
-  label: toc page template
-  default: layouts/toc.njk
-  showOnly:
-    field: table_of_contents
-    value: true
 pages:
 - pages/course-content-checklist.md
 - pages/microsoft-teams.md
