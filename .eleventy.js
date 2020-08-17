@@ -4,6 +4,7 @@ const UglifyJS = require("uglify-es");
 const htmlmin = require("html-minifier");
 const slugify = require("slugify");
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
+const pluginTOC = require('eleventy-plugin-nesting-toc');
 
 module.exports = function(eleventyConfig) {
 
@@ -66,6 +67,9 @@ module.exports = function(eleventyConfig) {
       remove: /[*+~.·,()'"`´%!?¿:@]/g
     });
   });
+
+  // Table of content plugin
+  eleventyConfig.addPlugin(pluginTOC, {tags: ['h2', 'h3'], wrapper: ['div']});
 
   // Don't process folders with static assets e.g. images
   eleventyConfig.addPassthroughCopy("favicon.ico");

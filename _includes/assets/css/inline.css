@@ -104,6 +104,17 @@ pre {
 	margin: .5em 0;
 }
 
+/* Table of contents */
+.toc {
+	border: 2px solid var(--primary);
+	padding: 1em;
+}
+
+.toc > ol {
+	padding-bottom: 0;
+	margin-bottom: 0;
+}
+
 /* Header Logo (style as h2) */
 header > em {
 	display: block;
