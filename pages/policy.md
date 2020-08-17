@@ -8,7 +8,7 @@ eleventyNavigation:
   order: "1"
 
 ---
-**Important:** this is a DRAFT version of the policy last updated on August 10, 2020.
+**Important:** this is a DRAFT version of the policy last updated on August 17, 2020.
 
 ## Background and Rationale
 
@@ -308,7 +308,7 @@ When CSCU institutions purchase EIT including but not limited to content, softwa
 
 “Contractor agrees that no institutional funds may be expended for the purchase of EIT including, but not limited to content, software, hardware, and services for use by employees, program participants, or members of the public unless it provides equal and effective access to all individuals in accordance with federal and state laws and regulations, including, but not limited to the Americans with Disabilities Act of 1990 (ADA), Section 504 of the Rehabilitation Act of 1973, and Section 508 of the 1973 Rehabilitation Act.”
 
-#####  _5.2.2 RFPs (Request for Proposals)_
+##### _5.2.2 RFPs (Request for Proposals)_
 
 The following language is necessary to include in RFPs:
 
@@ -360,3 +360,157 @@ The following should be included:
 * Reporting an Accessibility Barrier
 * Link to disability discrimination complaint process
 * Any other relevant policies and/or information.
+
+#### 6.3 Roles
+
+##### IT, Webmasters, Communications
+
+* Provide and maintain a website/page/link dedicated to this policy’s web presence standard
+
+##### Accessibility Services/HR/Diversity/Equity/Inclusion
+
+* Provide timely and relevant information related to the policy’s web presence standard
+
+#### 6.4 Resources
+
+##### Webmasters, IT
+
+* Provide guidance and support on the creation of a web presence
+* Create Website Accessibility Statement page following the template provided by the [W3C Web Accessibility Initiative](https://www.w3.org/WAI/planning/statements/generator/#create)
+
+##### Accessibility Services/HR/Diversity/Equity/Inclusion
+
+* Provide guidance and information for the web presence
+* [W3C Web Accessibility Initiative Accessibility Statement Generator](https://www.w3.org/WAI/planning/statements/generator/#create)
+
+### 7: Standards: Accessibility Training
+
+#### 7.1 Scope
+
+The CSCU’s EIT Accessibility policy requires that all agents of the institution, including faculty and staff, who create or contribute to the creation or procurement of websites, software, applications, electronic course content, or the content provided in any of these, must complete annual EIT Accessibility training. New hires must complete the training requirement within the first six months of employment. Completing this training not only fulfills a compliance requirement but also provides the CSCU community with the necessary baseline understanding of creating accessible course materials, websites and other electronic content and systems for persons with disabilities. This training is critical in the CSCU’s ability to fulfill the mandate of the Americans with Disabilities Act which states that no qualified individual with a disability shall, by reason of such disability, be excluded from participation in or be denied the benefit of services, programs, or activities offered by CSCU.
+
+#### 7.2 Standards
+
+The following standards apply to anyone who creates, manages, purchases or edits content or instructional materials within the CSCU system.
+
+##### All Instructors, Employees, Contractors, and Vendors
+
+* General awareness of different types of disabilities and barriers
+* Access vs. accommodation and social vs. medical model
+
+##### Instructors, Employees
+
+* Familiarity with assistive technologies used by students, faculty and staff
+* Familiarity with relevant laws and policies
+* Familiarity with WCAG standards and how they apply to instructional materials, IT software and websites
+* Using accessible design principles to help create more accessible instructional documents, including Word documents, PowerPoints and PDFs.
+* Using accessibility evaluation tools to assess the accessibility of instructional materials
+* Ability to add/edit captions to multimedia content
+
+##### Contractors, Vendors
+
+* Understanding of Section 508, VPATs and a purchasing workflow that only accepts acquisition of accessible electronic information technology
+
+#### 7.3 Roles
+
+All roles listed below should use the provided list of resources to learn about accessibility and meet the relevant standards outlined in section 7.2.
+
+* All department and program staff
+* Content creators
+* Content/tool selectors
+* EIT purchasers
+* Webmasters
+* Disability/Accessibility Services staff
+* Faculty
+* Human Resources staff
+
+#### 7.4 Responsibilities/Resources
+
+##### All Departments, Programs, Instructors, Employees, Contractors, and Vendors
+
+* [Introduction to Web Accessibility](https://www.w3.org/WAI/fundamentals/accessibility-intro/)
+* [How People with Disabilities Use the Web](https://www.w3.org/WAI/people-use-web/)
+
+##### Instructors, Employees
+
+* [Accessible Documents: Word, PowerPoint and Acrobat online course from WebAIM](https://webaim.org/training/docs/)
+* [Accessibility Fundamentals: Disabilities, Guidelines and Laws from Deque University](https://dequeuniversity.com/curriculum/courses/fundamentals)
+* [Reference Guides (cheat sheets) for Accessible Documents](http://ncdae.org/resources/cheatsheets/)
+* [Caption Video Content for Accessibility with Blackboard](https://help.blackboard.com/Accessibility/Caption_Video_Content)
+* [Blackboard Closed Captioning Instructions](https://help.blackboard.com/Collaborate/v12/Moderator/Accessibility_Features/Closed_Captioning)
+* [Captioning Key from the Described and Captioned Media Program](https://www.captioningkey.org/quality_captioning.html)
+* [Ally for LMS Help for Instructors](https://help.blackboard.com/Ally/Ally_for_LMS/Instructor)
+
+#### 8. Standards: Exceptions
+
+#### 8.1 Scope
+
+The Connecticut State Colleges and Universities (CSCU) Accessibility policy requires that all digital information and digital services developed, acquired, managed, or otherwise meet the CSCU accessibility standards. **If an exception is required, the college or university must document the process by which the college or university will ensure to provide effective access, with substantially equivalent ease of use, to digital information and digital services for eligible individuals in a timely manner.**
+
+#### 8.2 Required Information
+
+Exception requests must contain the following elements in order to be considered.
+
+##### _8.2.1 Requesting Unit Contacts_
+
+Contact information for the below parties:
+
+* The individual making the request
+* The requesting unit
+* The staff responsible for oversight and administration of the Equally Effective Access Accommodation Plan (EEAP)
+
+##### _8.2.2 Rationale_
+
+The requesting unit must document how this request fits into one or more of the following categories:
+
+* Compliance is not technically possible or feasible given current technology
+* The digital information or digital service is used by a limited audience, when the audience is known, and whose needs can be accounted for in advance
+* For third party, vendor delivered products, no accessible alternative for the digital information or digital service exists
+* The EIT that best meets the college or university needs is not the most accessible option, when other more accessible options have been considered
+* Making the Digital Information or Digital Service accessible would require extraordinary measures that constitute an undue burden to the university
+
+**Note:** For the purposes of determining if an undue burden exists, CSCU is considered to be a single entity, and thus a burden would be analyzed according to the impact to the system as a whole and not to the unit requesting the exception.
+
+##### _8.2.3 Equally Effective Access Accommodation Plan (EEAAP)_
+
+This plan should address how access barriers in the digital information or digital service will be mitigated, and any benefits or opportunities afforded by the digital information or digital service will be provided, in a timely manner for eligible individuals who are unable to effectively use or interact with the digital information or digital service.
+
+Depending on the nature of the digital information or digital service, examples of an EEAAP might include:
+
+* Providing an alternative that effectively provides an equivalent result, e.g. an alternative software that performs the same or similar function.
+* Providing assistance to the eligible individual either in-person or over the phone.
+* Providing the digital information in a format that meets our accessibility standards.
+
+This plan should take into account the critical nature and timeliness of the digital information or digital service and address a method to ensure that the eligible individual can access the accommodation without any adverse consequences resulting from the need for the accommodation. For example, any deadlines imposed by the digital information or digital service that are not met due to the use of an accommodation must be waived, and the requesting unit must have a plan to ensure this occurs.
+
+Timeliness should be considered in light of the nature of the digital information or digital service. The accommodation plan should also address the timeline for delivering the accommodation, and the process by which any benefits or opportunities afforded by the digital information or digital service will be provided to the eligible individual.
+
+##### _8.2.4 Communication Plan_
+
+The requesting unit must document a plan to ensure that eligible individuals are made aware of the availability of the EEAAP, and the steps they must take to request access, if applicable. These communications should be readily accessible in the same places that any other general communication regarding access to the digital information or digital service are present.
+
+##### _8.2.5 Compliance Plan_
+
+Requesting units should document their plan to bring the digital information into compliance with our accessibility standards.
+
+These plans might include:
+
+* Contract language obligating the vendor of third-party digital information or digital services to bring their software or content into compliance within a period of time.
+* For internally developed digital information or digital services, a timeline for making them accessible and compliant with CSCU accessibility standards.
+* Detailed collaboration with the vendor to bring their digital information or digital service into compliance.
+* Advocacy for accessibility by contributing to open source products and services.
+
+The requesting unit must, if the digital information or digital service is not internally developed, have a compliance plan if the third party fails to make their digital information or digital service accessible.
+
+Examples include:
+
+* Contract termination
+* Financial penalties
+* Selection of an alternative product
+* Development of accessible front end
+* Replacement with internally developed alternative
+* Contributing to an open source product or service’s accessibility features
+
+##### _8.2.6 Accessible Alternative Justification_
+
+The requesting unit must document if their purchasing process evaluated other alternatives that were more accessible. If so, the requesting unit must explain what accessibility reasons necessitate the selection of the less accessible option. If accessible alternatives did not exist at time of use or purchase, the unit must document their plan to ensure that a search for a more accessible alternative is conducted when the contract or exception expires.
