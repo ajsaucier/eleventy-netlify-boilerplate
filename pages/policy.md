@@ -246,3 +246,117 @@ The following standards and guidelines are to be used to assess accessibility:
 The [US Access Board](https://www.access-board.gov/) established the Section 508 standards that implement the law and provides the requirements for accessibility.
 
 Since CSCU receives federal funding, it must adhere to the revised Section 508 standards during the selection and procurement of ICT.
+
+#### 4.3 Roles
+
+##### All Departments, Programs, Instructors, Employees, Contractors, and Vendors:
+
+* Check that software, hardware, local interfaces and modifications and electronic systems are accessible.
+* Check that all applications locally developed (web, desktop, etc.) are accessible according to principles of WCAG 2.1, [WAI-ARIA 1.1](https://www.w3.org/TR/wai-aria-1.1/), and [ATAG 2.0](https://www.w3.org/TR/ATAG20/) standards (extrapolated as needed for non-web environments).
+* Alert appropriate staff members about any confirmed issues that a student reports regarding any software or hardware maintained by the institution.
+* Follow established Procurement protocols in selecting/purchasing accessible digital content and tools.
+  * The [**Accessibility Requirements Tool**](https://buyaccessible.gov/) (ART) provides an automated tool and pre-determined requirements and solicitation language for standard ICT procurement categories.
+  * [**Partnership on Employment and Accessible Technology**](https://www.peatworks.org/Buy-IT) (PEAT) offers a step-by-step guide to selecting and purchasing accessible technology.
+
+##### Disability Services Office:
+
+* Make assistive technologies readily available to students working in campus labs or on publicly accessed campus computers.
+* Provide students information on how to use assistive technologies on-campus computers and on their personal computers if they prefer to use them.
+
+##### Human Resources:
+
+* Make assistive technologies available in a timely manner for all employees, including student employees.
+
+##### IT:
+
+* Coordinate campus processes for ensuring campus software, hardware and software system accessibility.
+
+#### Resources
+
+##### IT:
+
+* Evaluate vendor documentation that certifies the product meets this policy’s accessibility standards.
+* Evaluate product functionality related to accessibility.
+
+##### Vendors:
+
+* Provide documentation, such as a VPAT, that certifies the product meets this policy’s accessibility standards.
+
+##### HR/Office of Diversity/Equity/Inclusion
+
+* Provide guidance on faculty and staff needs in relation to vendor product where appropriate
+
+##### Accessibility Services
+
+* Provide guidance on student needs in relation to vendor product where appropriate
+
+##### Distance Education/Educational Technology
+
+* Provide guidance on faculty and student needs in relation to vendor product where appropriate
+
+### 5. Standards: Procurement
+
+#### 5.1 Scope
+
+This process applies to all Electronic Information and Technology (EIT) content, software, hardware and services purchased for use by two or more people.
+
+#### 5.2 Standards
+
+##### _5.2.1 Purchase Orders & Contracts_
+
+When CSCU institutions purchase EIT including but not limited to content, software, hardware, and services, it must be accessible. This includes required course materials, like iClickers or MatLab. Purchase orders and contracts for EIT must include the following clause:
+
+“Contractor agrees that no institutional funds may be expended for the purchase of EIT including, but not limited to content, software, hardware, and services for use by employees, program participants, or members of the public unless it provides equal and effective access to all individuals in accordance with federal and state laws and regulations, including, but not limited to the Americans with Disabilities Act of 1990 (ADA), Section 504 of the Rehabilitation Act of 1973, and Section 508 of the 1973 Rehabilitation Act.”
+
+#####  _5.2.2 RFPs (Request for Proposals)_
+
+The following language is necessary to include in RFPs:
+
+“Please confirm in this proposal that the product/service conforms to the Web Content Accessibility Guidelines (WCAG) 2.1 (minimum Level AA conformance), or the most recent WCAG guidelines, whichever is the current standard, and describe how this compliance has been verified by providing a Voluntary Product Accessibility Template (VPAT) and written description of compatibility of the product/service with commonly used assistive technology products, such as screen readers, and a description of the process used to evaluate such compatibility.”
+
+In some cases, a fully compliant EIT is not available. In this case, RFPs should include the following language:
+
+“Please include in any proposal that the product/service conforms to the guidelines for accessibility as set forth in Web Content Accessibility Guidelines (WCAG) 2.1 (minimum Level AA conformance) or the most recent WCAG guidelines, whichever is the current standard. If the product/service is not in compliance, please describe plans and a timeframe for achieving compliance by providing a[ VPAT](https://web.accessibility.duke.edu/learn/voluntary-product-accessibility-template-vpat) and written description of compatibility of the product/service with commonly used assistive technology products, such as[ screen readers](https://web.accessibility.duke.edu/learn/screen-reader), and a description of the process used to evaluate such compatibility. A vendor providing electronic information and technology products or services to CSCU is required to promptly respond to and resolve any complaint regarding the accessibility of its platform.”
+
+##### _5.2.3 Open Source/Free EIT_
+
+In the case of open-licensed/sourced and/or free EIT, there may not be a VPAT, statement of compliance, or a person to contact regarding the accessibility of the software. It is the responsibility of the person who procures this product to confirm its compliance with the CSCU EIT Policy or seek out appropriate staff to assist in the accessibility review of the product.
+
+#### 5.3 Roles
+
+##### All Departments, Programs, Instructors, Employees, Contractors, and Vendors:
+
+* Must meet accessibility standards and requirements for all EIT purchases regardless of dollar value.
+* Purchase or otherwise acquire accessible EIT, in accordance with these procedures.
+* Purchasing guidelines have been revised to record that accessibility factors have been considered.
+* Provide written justification where accessibility criteria are not met.
+
+#### 5.4 Resources
+
+##### Accessibility Services, IT, Instructional Designers, Webmasters, Digital Accessibility Compliance Committee
+
+* Serve as a resource for EIT purchases and other acquisitions for compliance with accessibility requirements.
+* Provide guidance on WCAG Guidelines
+
+### 6. Standards: Accessibility Web Presence/Link
+
+#### 6.1 Scope
+
+The Connecticut State Colleges and Universities (CSCU) EIT Accessibility policy requires that all Colleges and Universities have a centralized accessibility web link located on the footer of each webpage. This will assist with having a centralized location for accessibility services on campus.
+
+#### 6.2 Standards/Required Information
+
+The accessibility link should provide comprehensive information on accessibility on campus.
+
+The following should be included:
+
+* Accessibility Policy
+* Website Accessibility Statement
+* Accessibility Services for Students
+* Accessibility Services for Staff/Faculty
+* Accessibility Services for Visitors
+* Campus ADA Contact Information
+* Campus Disability/Accessibility Services Contact Information
+* Reporting an Accessibility Barrier
+* Link to disability discrimination complaint process
+* Any other relevant policies and/or information.
