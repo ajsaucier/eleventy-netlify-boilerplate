@@ -26,6 +26,7 @@ fields:
     label: order
 pages:
 - pages/course-content-checklist.md
+- pages/kaltura.md
 - pages/microsoft-teams.md
 - pages/multimedia.md
 - pages/pdfs.md
