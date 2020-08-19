@@ -28,3 +28,7 @@ There are additional aspects to multimedia files that are important to consider 
 * **Preventing seizures:** Flashing visual effects in videos can cause seizures in some people, especially when three or more flashes occur per second. It is recommended to not use any flashing visual effects.
 * **Accessible media player:** The media player itself has to be keyboard-accessible and needs to communicate the names, roles, and values of the controls and the states of the controls to assistive technology.
 * **Preventing auto-play audio interference with screen readers:** Media players that auto-play can interfere with screen reader users' ability to hear what their screen reader is saying, and could render the entire page's content impossible to use if it lacks the ability to pause or stop it.
+
+## Sources and Further Reading
+
+* [Accessibility Techniques for Audio and Video (external link)](https://dequeuniversity.com/checklists/web/audiovideo) from Deque University
