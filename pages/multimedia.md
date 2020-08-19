@@ -13,8 +13,11 @@ There are four main methods of making video and audio content accessible for as 
 * **Captions:** Text synchronized with the media, for people who cannot hear the audio. There are two common types of captions:
   * **Closed Captions:** Captions that can be turned on or off by the user and can often be customized to the user's preference for things like font size, font and background color, and more.
   * **Open Captions:** Captions that are burned in as part of the file and cannot be turned off or customized by the user.
+  * Captions are required for prerecorded and live multimedia and should also be provided for live audio-only content.
 * **Transcripts:** The full text of the spoken words and important visual cues in the media file, to serve as an alternative to watching or listening to the media file.
+  * Transcripts are required for prerecorded audio-only content, like a podcast. They should also be provided for multimedia content and should describe the important visual aspects of video-only content.
 * **Audio descriptions:** A version of the media file with a narrator explaining important visual information occurring in the video for the benefit of people who cannot see what's happening.
+  * Audio descriptions are required for prerecorded multimedia content and prerecorded video-only content.
 * **Sign language interpretation:** Video of an interpreter, synchronized with the media file (or in the same video frame), for the benefit of people who know sign language.
 
 ## Important Considerations
