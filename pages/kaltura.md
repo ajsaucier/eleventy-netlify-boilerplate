@@ -55,3 +55,10 @@ If the video you wish to add captions to has not previously been uploaded into M
    ![Screenshot of a video page with the Actions button activated, which shows a dropdown with various options. The Order Captions option in the list is outlined with a red border.](/static/img/kaltura-screenshot-6.jpg)
 3. The only option you will see here is “Mechanical (70 to 80% accuracy)”. Click “Order Captions.”  
    ![Screenshot showing a select list with the label Fidelity. One option is available and selected. The Order Captions button is outlined with a red border.](/static/img/kaltura-screenshot-7.jpg)
+4. A confirmation screen will display. Click “OK.”  
+   ![Screenshot of confirmation message after ordering captions. The text in the confirmation is "Thank You! Your caption request has been received. Captions will be automatically uploaded to your video upon completion."](/static/img/kaltura-screenshot-8.jpg)
+5. You will see information about the caption order status. As the process is working, you will first see a Status saying it is _Authorizing_, then _Processing_, and eventually _Complete_.
+
+**Note:** It can take some time for captions to process—depending upon the length of the video. So you may wish to leave “My Media” to do some other work. Then you can navigate back to “My Media” later to continue review and editing the captions once processing is complete.
+
+![Screenshot showing the caption order status. The value under the Status column header is COMPLETE, and is outlined with a red border.](/static/img/kaltura-screenshot-9.jpg)
