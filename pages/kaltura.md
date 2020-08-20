@@ -41,3 +41,17 @@ If the video you wish to add captions to has not previously been uploaded into M
    ![Screenshot showing the My Media page with the Add New button activated with a dropdown visible and the Media Upload option outlined with a red border](/static/img/kaltura-screenshot-2.jpg)
 3. Click “Choose a file to upload.”  
    ![Screenshot showing Upload Media heading and Choose a file to upload button](/static/img/kaltura-screenshot-3.jpg)
+4. Navigate to the video file you want to add captions to, select it, and open it.
+   1. Be sure the name you give the video matches the title referenced in your Syllabus or elsewhere in your course.
+5. Scroll down the page and click “Save.”
+6. Then click “Go to My Media” to return to the _My Media_ tool.  
+   ![Screenshot showing the bottom of the My Media page with two radio button options, a Save button, a Go To Media button and a Go To My Media button outlined with a red border](/static/img/kaltura-screenshot-4.jpg)
+
+### How to Request Mechanical Fidelity Captions for a Video
+
+1. When you go into the **My Media** tool, you will be looking at your list of videos. From the list of videos, click the blue title link of the video you want to add captions to.  
+   ![Screenshot of the My Media tool page showing the title of a video next to the video's thumbnail. The title is outlined with a red border.](/static/img/kaltura-screenshot-5.jpg)
+2. Click the “Actions” button, and select “Order Captions.”  
+   ![Screenshot of a video page with the Actions button activated, which shows a dropdown with various options. The Order Captions option in the list is outlined with a red border.](/static/img/kaltura-screenshot-6.jpg)
+3. The only option you will see here is “Mechanical (70 to 80% accuracy)”. Click “Order Captions.”  
+   ![Screenshot showing a select list with the label Fidelity. One option is available and selected. The Order Captions button is outlined with a red border.](/static/img/kaltura-screenshot-7.jpg)
