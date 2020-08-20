@@ -35,3 +35,9 @@ Although it is possible to view all _My Media_ content by navigating to it from 
 ### How to Upload a Video to Kaltura “My Media” Mechanical
 
 If the video you wish to add captions to has not previously been uploaded into My Media, follow these steps. If it has already been uploaded into _My Media_ (whether or not it has been linked to your courses), you can skip this step.
+
+1. Click “Add New.”
+2. Click “Media Upload.”  
+   ![Screenshot showing the My Media page with the Add New button activated with a dropdown visible and the Media Upload option outlined with a red border](/static/img/kaltura-screenshot-2.jpg)
+3. Click “Choose a file to upload.”  
+   ![Screenshot showing Upload Media heading and Choose a file to upload button](/static/img/kaltura-screenshot-3.jpg)
