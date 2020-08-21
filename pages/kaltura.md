@@ -62,3 +62,42 @@ If the video you wish to add captions to has not previously been uploaded into M
 **Note:** It can take some time for captions to process—depending upon the length of the video. So you may wish to leave “My Media” to do some other work. Then you can navigate back to “My Media” later to continue review and editing the captions once processing is complete.
 
 ![Screenshot showing the caption order status. The value under the Status column header is COMPLETE, and is outlined with a red border.](/static/img/kaltura-screenshot-9.jpg)
+
+### How to Review and Edit Mechanical Fidelity Captions
+
+If you left “My Media” to do other work, or left Blackboard completely, follow the steps in the “**How to Navigate to the Kaltura “My Media” repository from Blackboard’s My Institution page”** section of this document to navigate back to the My Media tool. _(Remember - you MUST navigate to My Media from the My Institution page, not from within a Bb course!)_
+
+1. From the **My Media** tool (where your videos are listed), click on the video title, then the “Actions” button. Select “View Caption Requests.”  
+   ![Screenshot of a video detail page with the Actions button activated and the resulting dropdown showing multiple options. The View Caption Requests button is outlined with a red border.](/static/img/kaltura-screenshot-10.jpg)
+2. Assuming the Status is shown as COMPLETE, the next step is to Edit the captions.  
+   ![Screenshot showing a Caption Request where the Status shows a COMPLETE header and an Edit button sits below that header.](/static/img/kaltura-screenshot-11.jpg)
+   1. Please note that, depending upon your web browser and the local security settings on your computer, you may see a warning message or pop-up blocker message. You can approve these by clicking “Continue” or allowing the pop-up to display from the website.
+3. In the Editing window, you can make the changes to your captions. Note the Hotkeys and Sound Tag shortcuts shown in the panel at right, as this may be helpful in some videos.  
+   ![Screenshot of the caption editing tool view. The captions provided by Kaltura appear on the left side of the screen. The video itself, along with the video player controls and a section to edit the captions is in the middle of the page. Keyboard shortcuts, Tag shortcuts and information about the version of the Kaltura tool are on the right side of the page.](/static/img/kaltura-screenshot-12.jpg)
+4. **Save** and **Approve** buttons:
+   1. Clicking **Save** saves the edits that have been done without updating the captions that display on the video.
+   2. Click **Approve** when you are all done and wish to update the captions that display to viewers on the video.
+5. A dialog box displays showing the job was approved.  
+   ![Screenshot of the dialog box that appears after you approve your changes to the caption. It reads "Job Approved. Your job has been approved. Please close this browser tab or window"](/static/img/kaltura-screenshot-13.jpg)
+6. Close the browser tab or window in which the Editor appears to return to the **My Media** tab or window so you can view your video with the captions displayed.
+   1. If you need to do additional editing:
+      1. In **My Media**, click the “Actions” button under the displayed video.
+      2. Click “Caption Requests”
+      3. Click “Edit”
+      4. This will bring once again open the editing window in a new tab or window.
+7. **If you have not already done so, you can now go into your Blackboard course shell and determine where in the course you wish to make the video available**, for example, in the Media Gallery tool, or as Kaltura Media, or as a Mashup in an announcement, item, discussion, etc.
+
+## How Students Can Search for Terms in Captions
+
+Students will have the ability to search for key words or phrases in your video’s automatically-generated captions if you have made the Kaltura “Media Gallery” available to students in your course.
+
+1. Add Media Gallery tool to the course menu
+   1. Click “Add Menu button” + sign above menu
+   2. Select “Add Tool Link”
+   3. In the _Name_ field type “Media Gallery” and from the _Type_ dropdown select “Media Gallery.”
+   4. Click “Available to Users” and Submit.
+   5. Drag the new menu button from the bottom of the menu to the location where you want it to appear.
+2. Then add the video with the captions into the Media Gallery.
+3. Students simply click on the video they want to watch in the Media Gallery.
+4. If they wish to search for a word or phrase, they type it into the _Search_ field and click the Search button.
+5. Links will appear below just below the search box with the matching text. A student clicks the link to go to the selected point in the video.
