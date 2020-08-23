@@ -36,15 +36,6 @@ tr:nth-child(odd) {
   background-color: rgba(255, 255, 255, 0.25);
 }
 
-td:nth-of-type(2) {
-  font-style: italic;
-}
-
-th:nth-of-type(3),
-td:nth-of-type(3) {
-  text-align: right;
-}
-
 div.overflow {
   overflow: auto;
 }
