@@ -189,7 +189,12 @@ The following checklist has been designed to assist you in identifying key areas
 			<td>
 				<span id="pdf-word-criteria">Use the “Export” function in Microsoft Word to create a tagged PDF; the “Save As PDF” option may not retain document accessibility.</span>
 			</td>
-			<td>Use the Microsoft Word tool to “Check Accessibility” by selecting “Review” from the MS top menu.</td>
+			<td>
+				<ul>
+					<li><a href="https://webaim.org/techniques/acrobat/converting">Converting Documents to PDFs (external link)</a></li>
+					<li><a href="/training/creating-accessible-content/pdfs/">PDFs</a></li>
+				</ul>
+			</td>
 		</tr>
 		<tr>
 			<th scope="row">Scanned PDF Documents</th>
@@ -197,7 +202,9 @@ The following checklist has been designed to assist you in identifying key areas
 				<span id="scanned-criteria">Avoid scanning works as images. Ensure source material can be read as text. (e.g., hand-written notes and equations will not convert to text.)</span>
 			</td>
 			<td>
-				Test in Acrobat Reader using the Read Out Loud feature (View > Read Out Loud > Activate Read Out Loud). To learn how to use OCR to make accessible PDFs, visit <a href="https://acrobat.adobe.com/us/en/acrobat/how-to/ocr-software-convert-pdf-to-text.html">https://acrobat.adobe.com/us/en/acrobat/how-to/ocr-software-convert-pdf-to-text.html</a>
+				<ul>
+					<li><a href="https://helpx.adobe.com/acrobat/using/edit-scanned-pdfs.html">Edit Scanned PDFs (external link)</a></li>
+				</ul>
 			</td>
 		</tr>
 	</table>
@@ -217,8 +224,11 @@ The following checklist has been designed to assist you in identifying key areas
 				<span id="alttext-criteria">Images are near the content being supported, are of a clear quality, and have meaningful alt text descriptions. If the alt text cannot fully describe the image, provide additional narrative. Use figure numbers to reference images, charts and graphs. </span>
 			</td>
 			<td>
-				<a href="https://webaim.org/techniques/alttext/">https://webaim.org/techniques/alttext/</a>
-				Use the Microsoft Word tool to “Check Accessibility” by selecting “Review” from the top menu.
+				<ul>
+					<li><a href="https://webaim.org/techniques/alttext/">Create Alt Text (external link)</a></li>
+					<li><a href="https://support.microsoft.com/en-us/office/video-improve-accessibility-with-alt-text-9c57ee44-bb48-40e3-aad4-7647fc1dba51">Improve Accessibility with Alt Text (external link)</a></li>
+					<li><a href="https://www.w3.org/WAI/tutorials/images/decision-tree/">Alt Text Decision Tree (external link)</a></li>
+				</ul>
 			</td>
 		</tr>
 		<tr>
@@ -227,7 +237,10 @@ The following checklist has been designed to assist you in identifying key areas
 				<span id="animations-criteria">Animated images include representative descriptions of the action occurring.</span>
 			</td>
 			<td>
-				<!-- Missing resources -->
+				<ul>
+					<li><a href="https://webaccessibility.asu.edu/articles/animation">Animations (external link)</a></li>
+					<li><a href="https://webaim.org/techniques/images/">Accessible Images (external link)</a></li>
+				</ul>
 			</td>
 		</tr>
 		<tr>
@@ -236,7 +249,10 @@ The following checklist has been designed to assist you in identifying key areas
 				<span id="blinking-criteria">Avoid animated or blinking images, text, or cursors.</span>
 			</td>
 			<td>
-				<!-- Missing resources -->
+				<ul>
+					<li><a href="https://webaccessibility.asu.edu/articles/animation">Animations (external link)</a></li>
+					<li><a href="https://webaim.org/techniques/images/">Accessible Images (external link)</a></li>
+				</ul>
 			</td>
 		</tr>
 		<tr>
@@ -245,7 +261,10 @@ The following checklist has been designed to assist you in identifying key areas
 				<span id="transcripts-criteria">A text transcript is provided for audio recordings. Text transcripts are 100% accurate to meet ADA guidelines.</span>
 			</td>
 			<td>
-				<!-- Missing resources -->
+				<ul>
+					<li><a href="https://www.w3.org/WAI/media/av/">Making Audio and Video Media Accessible (external link)</a></li>
+					<li><a href="https://www.w3.org/WAI/media/av/transcribing/">Transcribing Audio to Text (external link)</a></li>
+				</ul>
 			</td>
 		</tr>
 		<tr>
@@ -254,16 +273,13 @@ The following checklist has been designed to assist you in identifying key areas
 				<span id="cc-criteria">Captions are provided for video (Kaltura, YouTube, etc.). Captions are 100% accurate to meet ADA guidelines.</span>
 			</td>
 			<td>
-				Auto generated and YouTube captions are generally not accurate enough to meet ADA guidelines. It is recommended to review video captions for accuracy before incorporating into your course.
-			</td>
-		</tr>
-		<tr>
-			<th scope="row">Narrated PowerPoint Presentations</th>
-			<td>
-				<span id="narrated-criteria">Narrated PowerPoint presentations provide transcript/captions either within the presentation or as a separate document.</span>
-			</td>
-			<td>
-				<!-- Missing resources -->
+				<ul>
+					<li><a href="https://dcmp.org/learn/captioningkey">Captioning Key (external link)</a></li>
+					<li><a href="/training/microsoft-teams/">Microsoft Teams</a></li>
+					<li><a href="/training/multimedia/">Multimedia</a></li>
+					<li><a href="/training/multimedia/kaltura/">Kaltura</a></li>
+					<li><a href="/training/multimedia/webex/">WebEx</a></li>
+				</ul>
 			</td>
 		</tr>
 	</table>

@@ -58,7 +58,13 @@ table td a {
   hyphens: auto;
 }
 
-@media screen and (max-width: 44em), print and (max-width: 5in) {
+#sec1 td:nth-of-type(2),
+#sec2 td:nth-of-type(2),
+#sec3 td:nth-of-type(2) {
+  min-width: 15em;
+}
+
+@media screen and (max-width: 52em), print and (max-width: 5in) {
   table,
   tr,
   td {
