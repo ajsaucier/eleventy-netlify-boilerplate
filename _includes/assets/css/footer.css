@@ -4,8 +4,26 @@
 
 footer {
     background: var(--gray);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
 }
 
 footer * {
     color: white;
+}
+
+footer nav ul {
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+footer nav[aria-label="footer navigation"] > ul li a[href], footer nav[aria-label="footer navigation"] > ul li a[href="visited"] {
+    color: white;
+    text-decoration: underline;
+    margin: 0 1em;
 }
