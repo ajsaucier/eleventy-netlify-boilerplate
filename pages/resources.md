@@ -11,15 +11,15 @@ The CSCU Accessibility Council has developed and collected a number of resources
 
 ## Accessibility Introduction
 
-* [Introduction to Web Accessibility (external link)](https://webaim.org/intro/)(website with 2 embedded videos)
-* [Simply Said: Understanding Accessibility in Digital Learning Materials (external link)](https://www.youtube.com/watch?v=HzE5dj1WTSo)(6 minute video)
+* [Introduction to Web Accessibility (external link)](https://webaim.org/intro/) (website with 2 embedded videos)
+* [Simply Said: Understanding Accessibility in Digital Learning Materials (external link)](https://www.youtube.com/watch?v=HzE5dj1WTSo) (6 minute video)
 * [20 Tips for Teaching an Accessible Online Course (external link)](https://www.washington.edu/doit/20-tips-teaching-accessible-online-course)
 * [Captions, Transcripts, and Audio Descriptions (external link)](https://webaim.org/techniques/captions/)
 * [How does accessible web design benefit all web users? (external link)](https://www.washington.edu/doit/how-does-accessible-web-design-benefit-all-web-users)
 * [The Digital Courseware Accessibility Problem (external link)](https://www.insidehighered.com/digital-learning/article/2019/12/02/professors-colleges-and-companies-struggle-make-digital)
 * [From Policy to Compliance: What do Faculty Need to Develop Accessible Course Content? (external link)](https://wcetfrontiers.org/2019/09/12/from-policy-to-compliance-accessible-course-content/)
 * [Designing for Accessibility: How to Front-Load Your Digital Content with UDL Principles (external link)](https://www.facultyfocus.com/articles/online-education/how-to-front-load-your-digital-content-with-udl-principles/)
-* [Easy Checks: A First Review of Web Accessibility (external link)](https://www.w3.org/WAI/test-evaluate/preliminary/)(website)
+* [Easy Checks: A First Review of Web Accessibility (external link)](https://www.w3.org/WAI/test-evaluate/preliminary/)
 
 ## Accessibility Tools
 
@@ -38,6 +38,6 @@ The CSCU Accessibility Council has developed and collected a number of resources
 ### Self-Assessment Tools
 
 * [Universal Design for Learning Self-Assessment Tool (external link)](https://tufts.qualtrics.com/jfe/form/SV_4PdZNI1GNi8S5kF) by Tufts University – Kirsten Behling
-* [Accessibility Maturity Model (external link)](https://members.businessdisabilityforum.org.uk/resource-category/resource/accessible-technology-charter-accessibility-maturity-model/)– Business Disability Forum
+* [Accessibility Maturity Model (external link)](https://members.businessdisabilityforum.org.uk/resource-category/resource/accessible-technology-charter-accessibility-maturity-model/) – Business Disability Forum
 * [AAM Video (external link)](https://www.youtube.com/watch?v=tcO4rhsS5Sw)
 * [Quality Indicators for Assistive Technology (external link)](http://qiat-ps.org/) - Self-Assessment Tool for students and Accessibility Offices
