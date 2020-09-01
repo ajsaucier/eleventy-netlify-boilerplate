@@ -5,7 +5,7 @@ tags: training
 eleventyNavigation:
   key: Tips for Making Accessible Videos
   parent: Multimedia
-  order: 3
+  order: 1
 
 ---
 If you plan to include videos of your lectures, or screen recordings demonstrating software or navigation of websites, here are some simple, easy to apply guidelines to keep in mind as you are planning and creating your videos. These simple ideas will greatly improve the likelihood that your students will watch and benefit from your videos.
