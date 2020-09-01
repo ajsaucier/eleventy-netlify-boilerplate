@@ -5,7 +5,7 @@ tags: training
 eleventyNavigation:
   key: Kaltura
   parent: Multimedia
-  order: 1
+  order: 2
 
 ---
 ## Video Demonstration
