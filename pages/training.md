@@ -12,8 +12,8 @@ The CSCU Accessibility Council has curated a collection of training resources th
 ## Introduction to Accessibility
 
 * [Introduction to Web Accessibility edX Course (external link)](https://www.edx.org/course/web-accessibility-introduction)
-* [How People with Disabilities Access Digital Content](https://www.youtube.com/watch?v=Lu7a5RU5lM0) (video)
-* [Experiences of Students with Disabilities](https://www.youtube.com/watch?v=BEFgnYktC7U) (video)
+* [How People with Disabilities Access Digital Content (external video)](https://www.youtube.com/watch?v=Lu7a5RU5lM0)
+* [Experiences of Students with Disabilities (external video)](https://www.youtube.com/watch?v=BEFgnYktC7U)
 * [A Rising Tide: How Closed Captions Can Benefit All Students (external link)](https://er.educause.edu/articles/2017/8/a-rising-tide-how-closed-captions-can-benefit-all-students)
 * [Universal Design for Learning Guidelines (external link)](http://udlguidelines.cast.org/)
 
@@ -29,8 +29,8 @@ The CSCU Accessibility Council has curated a collection of training resources th
 ## Accessible Media
 
 * [Tobi’s video production content](/training/multimedia/accessible-videos/)
-* [Add Mechanical Fidelity Captions to Your Kaltura Videos](https://www.youtube.com/watch?v=JNQTgsT-tHw) (video)
+* [Add Mechanical Fidelity Captions to Your Kaltura Videos (external video)](https://www.youtube.com/watch?v=JNQTgsT-tHw)
 * [Kaltura](/training/multimedia/kaltura/)
-* [How to use YouTube for Closed Captioning/Transcription (external link)](https://www.youtube.com/watch?v=aojOis5xk3c) (video)
+* [How to use YouTube for Closed Captioning/Transcription (external video)](https://www.youtube.com/watch?v=aojOis5xk3c)
 * [WebEx](/training/multimedia/webex/)
 * [Teams](/training/microsoft-teams/)
