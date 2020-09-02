@@ -28,7 +28,7 @@ The CSCU Accessibility Council has curated a collection of training resources th
 
 ## Accessible Media
 
-* [Tobi’s video production content](/training/multimedia/accessible-videos/)
+* [Tips for Making Accessible Videos](/training/multimedia/accessible-videos/)
 * [Add Mechanical Fidelity Captions to Your Kaltura Videos (external video)](https://www.youtube.com/watch?v=JNQTgsT-tHw)
 * [Kaltura](/training/multimedia/kaltura/)
 * [How to use YouTube for Closed Captioning/Transcription (external video)](https://www.youtube.com/watch?v=aojOis5xk3c)
