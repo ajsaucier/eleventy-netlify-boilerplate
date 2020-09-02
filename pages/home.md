@@ -14,21 +14,21 @@ eleventyNavigation:
 
  <div class="icons">
   <div>
-    <img src="/static/img/group.svg" alt="" role="img" height="200" width="200" />
+    <img src="/static/img/group.svg" alt="" role="img" height="150" width="150" />
     <h2>
       <a href="/council">Council</a>
     </h2>
     <p class="credit">Icons made by <a href="https://www.flaticon.com/authors/prosymbols">Prosymbols</a> from <a href="https://www.flaticon.com/">www.flaticon.com</a></p>
   </div>
   <div>
-    <img src="/static/img/resources.svg" alt="" role="img" height="200" width="200" />
+    <img src="/static/img/resources.svg" alt="" role="img" height="150" width="150" />
     <h2>
       <a href="/resources">Resources</a>
     </h2>
     <p class="credit">Icons made by <a href="https://www.flaticon.com/authors/good-ware">Good Ware</a> from <a href="https://www.flaticon.com/">www.flaticon.com</a></p>
   </div>
   <div>
-    <img src="/static/img/training.svg" alt="" role="img" height="200" width="200" />
+    <img src="/static/img/training.svg" alt="" role="img" height="150" width="150" />
     <h2>
       <a href="/training">Training</a>
     </h2>
