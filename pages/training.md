@@ -22,6 +22,7 @@ The CSCU Accessibility Council has curated a collection of training resources th
 * [Explore Access – Designing an Accessible Online Course (external link)](https://exploreaccess.org/accessible-online-course/)
 * [Social Media Accessibility (external link)](https://usability.yale.edu/web-accessibility/articles/social-media)
 * [Evaluating Publisher Content for Accessibility (external link)](https://www.angelo.edu/content/blogs/26-evaluating-publisher-content-for-accessibility)
+* [View File Accessibility with Ally in Blackboard Learn (external video)](https://www.youtube.com/watch?v=Ik_-ECvVWYs)
 * [Documents](/training/creating-accessible-content/documents/)
 * [PDFs](/training/creating-accessible-content/pdfs/)
 * [PowerPoint](/training/creating-accessible-content/powerpoint/)
