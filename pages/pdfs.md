@@ -102,3 +102,4 @@ Reading order is one of the most important aspects of an accessible PDF. Assisti
 
 * [Creating Accessible PDF Documents in Adobe Acrobat XI (external link)](http://ncdae.org/resources/cheatsheets/acrobat-xi.php) from The National Center on Disability and Access to Education
 * [UConn IT Accessibility PDFs page (external link)](https://accessibility.its.uconn.edu/pdfs/)
+* [Add Alternate Text and Supplementary Information to Tags (external link)](https://www.adobe.com/accessibility/products/acrobat/pdf-repair-add-alternative-text.html)
