@@ -26,3 +26,7 @@ footer nav[aria-label="footer navigation"] > ul li a[href], footer nav[aria-labe
     text-decoration: underline;
     margin: 0 1em;
 }
+
+footer nav[aria-label="footer navigation"] > ul li a[href]:focus {
+    outline: 2px dashed white;
+}
