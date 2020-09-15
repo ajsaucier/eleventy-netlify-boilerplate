@@ -21,6 +21,19 @@ footer nav ul {
     list-style-type: none;
 }
 
+@media screen and (max-width: 575px) {
+    footer nav ul {
+        display: initial;
+        margin: 0;
+    }
+    footer nav ul li {
+        padding: 1em 0;
+    }
+    footer nav ul li a {
+        padding: 1em;
+    }
+}
+
 footer nav[aria-label="footer navigation"] > ul li a[href], footer nav[aria-label="footer navigation"] > ul li a[href="visited"] {
     color: white;
     text-decoration: underline;
