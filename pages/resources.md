@@ -20,6 +20,7 @@ The CSCU Accessibility Council has developed and collected a number of resources
 * [From Policy to Compliance: What do Faculty Need to Develop Accessible Course Content? (external link)](https://wcetfrontiers.org/2019/09/12/from-policy-to-compliance-accessible-course-content/)
 * [Designing for Accessibility: How to Front-Load Your Digital Content with UDL Principles (external link)](https://www.facultyfocus.com/articles/online-education/how-to-front-load-your-digital-content-with-udl-principles/)
 * [Easy Checks: A First Review of Web Accessibility (external link)](https://www.w3.org/WAI/test-evaluate/preliminary/)
+* [Accessibility Presentation Techniques (external link)](https://itaccessibility.arizona.edu/content/presentations)
 
 ## Accessibility Tools
 
