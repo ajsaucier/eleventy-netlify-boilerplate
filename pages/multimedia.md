@@ -32,3 +32,4 @@ There are additional aspects to multimedia files that are important to consider 
 ## Sources and Further Reading
 
 * [Accessibility Techniques for Audio and Video (external link)](https://dequeuniversity.com/checklists/web/audiovideo) from Deque University
+* [What Does Accessibility Mean for Multimedia? (PDF)](https://www.ct.edu/files/pdfs/What-Does-Accessibility-Mean-for-Multimedia_.pdf)
