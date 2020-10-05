@@ -9,7 +9,7 @@ eleventyNavigation:
   order: "1"
 
 ---
-**Important:** Policy last updated on September 24, 2020.
+**Important:** Policy last updated on October 5, 2020.
 
 ## Background and Rationale
 
@@ -107,7 +107,7 @@ Media resources used in all CSCU programs and activities must be accessible. Thi
 
 All video content created and produced by CSCU and posted on an external-facing CSCU website must provide, at the time of posting, captioning that is 99% accurate, synchronous, complete, and properly placed, or is otherwise consistent with industry standards. Audio resources must be transcribed and be 99% accurate. This includes any CSCU Massive Open Online Courses (MOOCs).
 
-Upon request from any member of the public, all audio or video content created and produced at CSCU and posted on a CSCU website prior to October 2020 must be captioned within five business days of the request.
+Upon request from any member of the public, all audio or video content created and produced at CSCU and posted on a CSCU website prior to the effective date of this Policy must be captioned within five business days of the request.
 
 All such requests are encouraged to be submitted via the “Report a Web Accessibility Concern” form (See Section 6.3). Any such requests received through another channel should be entered into this form by a member of the CSCU community upon receipt.
 
@@ -375,7 +375,7 @@ The following should be included:
 * Campus Disability/Accessibility Services Contact Information
 * Reporting an Accessibility Barrier
 * Link to “Report a Web Accessibility Concern” form  
-   ([See Harvard University example](https://harvard.az1.qualtrics.com/jfe/form/SV_0PrAhzDswr9Z3z7))
+  ([See Harvard University example](https://harvard.az1.qualtrics.com/jfe/form/SV_0PrAhzDswr9Z3z7))
 * Any other relevant policies and/or information.
 
 #### 6.3 Reporting and Responding to Accessibility Issues
