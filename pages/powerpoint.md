@@ -93,6 +93,6 @@ Select specific issues to see _Additional Information_ at the bottom of the pane
 
 * [Creating Accessible Microsoft PowerPoint 2016 Presentations (Windows) (external link)](http://ncdae.org/resources/cheatsheets/powerpoint2016.php) from National Center on Disability and Access to Education
 * [Creating Accessible Microsoft PowerPoint 2016 Presentations (Mac) (external link)](http://ncdae.org/resources/cheatsheets/powerpoint2016-mac.php) from National Center on Disability and Access to Education
-* [Make your PowerPoint presentations accessible to people with disabilities (external link)]() from Microsoft
+* [Make your PowerPoint presentations accessible to people with disabilities (external link)](https://support.microsoft.com/en-us/office/make-your-powerpoint-presentations-accessible-to-people-with-disabilities-6f7772b2-2f33-4bd2-8ca7-dae3b2b3ef25#PickTab=Windows) from Microsoft
 * [PowerPoint Accessibility (external link)](https://webaim.org/techniques/powerpoint/) from WebAIM
 * [Microsoft PowerPoint Accessibility Quick Reference (PDF)](https://www.at3center.net/Content/EOCONTENTMEDIACENTER/documents/ICT/2018-AT3_QuickRef_PwrPT%201.pdf) from AT3 Center
