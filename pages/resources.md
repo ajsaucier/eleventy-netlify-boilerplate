@@ -42,3 +42,7 @@ The CSCU Accessibility Council has developed and collected a number of resources
 * [Accessibility Maturity Model (external link)](https://members.businessdisabilityforum.org.uk/resource-category/resource/accessible-technology-charter-accessibility-maturity-model/) – Business Disability Forum
 * [AAM Video (external link)](https://www.youtube.com/watch?v=tcO4rhsS5Sw)
 * [Quality Indicators for Assistive Technology (external link)](http://qiat-ps.org/) - Self-Assessment Tool for students and Accessibility Offices
+
+### Procurement Tools
+
+* [Accessible Technology Procurement Toolkit (external link)](https://private.disabilityin.org/procurementtoolkit/)
