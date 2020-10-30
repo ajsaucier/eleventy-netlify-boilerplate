@@ -16,6 +16,7 @@ The CSCU Accessibility Council has curated a collection of training resources th
 * [Experiences of Students with Disabilities (external video)](https://www.youtube.com/watch?v=BEFgnYktC7U)
 * [A Rising Tide: How Closed Captions Can Benefit All Students (external link)](https://er.educause.edu/articles/2017/8/a-rising-tide-how-closed-captions-can-benefit-all-students)
 * [Universal Design for Learning Guidelines (external link)](http://udlguidelines.cast.org/)
+* [Microsoft Accessibility Fundamentals (external link)](https://docs.microsoft.com/en-us/learn/paths/accessibility-fundamentals/)
 
 ## Accessible Content
 
