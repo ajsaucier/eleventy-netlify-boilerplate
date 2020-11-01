@@ -245,6 +245,11 @@ form button:hover, form button:focus {
 	background: var(--nav-link-color);
 }
 
+form label {
+	font-size: 1.2rem;
+	font-weight: bold;
+}
+
 input,
 textarea,
 button {
