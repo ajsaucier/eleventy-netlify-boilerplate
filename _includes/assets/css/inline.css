@@ -2,6 +2,7 @@
 	--primary: #094175;
 	--secondary: white;
 	--background: #f2f3f5;
+	--error: #A91E0F;
 	--font-size: 1rem;
 }
 
@@ -232,12 +233,16 @@ a[rel="tag"]:last-child {
 
 /* Contact Form */
 form {
-  display: grid;
-	padding: 2em 0;
+  	display: grid;
+	padding-bottom: 2em;
 }
 
-form label {
-  display: none;
+form input:focus, form button:focus {
+	outline: 2px dashed var(--primary);
+}
+
+form button:hover, form button:focus {
+	background: var(--nav-link-color);
 }
 
 input,

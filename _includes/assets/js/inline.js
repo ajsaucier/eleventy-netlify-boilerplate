@@ -89,3 +89,72 @@ function lazyLoadImages() {
 
 lazyLoadImages();
 
+// Site search
+
+var searchForm = document.querySelector('#site-search');
+searchForm.addEventListener('submit', function(event) {
+
+  event.preventDefault();
+
+  var searchInput = document.getElementById('search');
+  var requiredNotice = document.getElementById('required-notice');
+  var searchResults = document.getElementById('search-results');
+  var status = document.getElementById('status');
+  searchResults.innerHTML = "";
+
+  // Fetch JSON with title, URL and content from every page
+  fetch('/search.json')
+    .then(response => response.json())
+    .then(data => {
+      var searchIndex = data.search;
+      var results = [];
+      var searchString = searchInput.value;
+
+      // Match search query with page content
+      for (var item in searchIndex) {
+        var found = searchIndex[item].text.toLowerCase().indexOf(searchString.toLowerCase());
+        if (found !== -1 && searchString.length >= 3) {
+          results.push(searchIndex[item]);
+        }
+      }
+
+      // If any matches are found, add them to the list and display it
+      if (results.length > 0) {
+        results.forEach(result => {
+          searchResults.innerHTML += `
+            <li><a href="${result.url}">${result.title}</a></li>
+          `;
+
+          // Make results region focusable
+          searchResults.setAttribute('tabindex', '0');
+        });
+      } else {
+        searchResults.innerHTML += `
+          <li>No results</li>
+        `;
+
+        // Make sure empty results region cannot be focused
+        searchResults.removeAttribute('tabindex');
+      }
+
+      // Announce number of results found after 1 second
+      setTimeout(function() {
+        status.innerHTML = `${results.length} results loaded below`;
+      }, 1000);
+
+    })
+    .catch(error => console.error('Error:', error));
+
+  // Error checking
+  if (searchInput.value === "") {
+    searchInput.focus();
+    requiredNotice.innerHTML = "Please enter a search term";
+    searchResults.innerHTML = "";
+  } else if (searchInput.value.length < 3) {
+    searchInput.focus();
+    requiredNotice.innerHTML = "Please enter at least three characters";
+  } else {
+    requiredNotice.innerHTML = "";
+  }
+
+}, false);

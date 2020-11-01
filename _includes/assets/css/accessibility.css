@@ -19,3 +19,11 @@ a[href="#main"]:focus {
     clip: rect(1px, 1px, 1px, 1px);
     white-space: nowrap; /* added line */
 }
+
+#required-notice {
+    color: var(--error);
+}
+
+[tabindex="-1"]{
+    outline: none;
+}
