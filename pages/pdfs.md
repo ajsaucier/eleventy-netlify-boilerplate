@@ -10,9 +10,9 @@ eleventyNavigation:
 ---
 ## Converting a Source Document to PDF
 
-The best way to make an accessible PDF is to start with an accessible source document and [convert that document to a tagged PDF (external link)](https://webaim.org/techniques/acrobat/converting#word). Making a document accessible using Acrobat is a more difficult and unreliable method.
+The best way to make an accessible PDF is to start with an accessible source document and [convert that document to a tagged PDF (external link)](https://webaim.org/techniques/acrobat/converting#word). Making a document accessible using Adobe Acrobat Pro is a more difficult and unreliable method.
 
-**Note:** Though a PDF can be made more accessible using the tools provided by Adobe Acrobat, the process itself is not accessible. Adobe needs to put more focus on this.
+**Note:** Though a PDF can be made more accessible using the tools provided by Adobe Acrobat Pro, the process itself is not accessible. Adobe needs to put more focus on this.
 
 ## Making a PDF Accessible Using Adobe Acrobat
 
