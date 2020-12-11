@@ -54,7 +54,7 @@ Questions that have multiple options are easier to fill out as radio buttons or 
 
 ## Descriptive questions
 
-Short but descriptive labels (or “Questions” in Microsoft Forms) are an important aspect of a form. The user needs to know what to enter into the text field, or what option to select in a list of radio buttons or checkboxes, or why they are being asked to choose a date. You can also add a Subtitle to each question, but make sure to only add one if it’s necessary to include additional details or instructions with a question. Screen reader users will hear all the information related to a field, whether it’s in the main question or the subtitle. However, do not make it overly verbose. A screen reader user will need to listen to the whole subtitle from beginning to end without being able to pause it, so make sure it’s as clear and concise as possible. 
+Short but descriptive labels (or “Questions” in Microsoft Forms) are an important aspect of a form. The user needs to know what to enter into the text field, or what option to select in a list of radio buttons or checkboxes, or why they are being asked to choose a date. You can also add a Subtitle to each question, but make sure to only add one if it’s necessary to include additional details or instructions with a question. Screen reader users will hear all the information related to a field, whether it’s in the main question or the subtitle. However, do not make it overly verbose. A screen reader user will need to listen to the whole subtitle from beginning to end without being able to pause it, so make sure it’s as clear and concise as possible.
 
 **Note:** file upload type inputs do not read the question correctly to screen reader users in the current version of Microsoft Forms.
 
@@ -69,3 +69,7 @@ Instead of the Star symbol, it’s recommended to instead use radio buttons with
 When choosing the color for your form’s Theme, try to stick to the colors provided by Microsoft. All of them except for Bright Blue (**important:** do not use the Bright Blue color option) have sufficient contrast with white text. If you do want to use your own color, make sure it has at least 4.5:1 contrast ratio with white text before applying it to your form. You can use the [WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker/) tool to do this.
 
 ![Screenshot of the color palette available for customizing a form's theme. The Bright Blue option has a red square and X mark over it, showing that it should not be used as it does not have sufficient contrast with white text](/static/img/forms-colors.png)
+
+## Sources and Further Reading
+
+* [Microsoft Forms help and learning (external link)](https://support.microsoft.com/en-us/forms?ui=en-us&rs=en-us&ad=us)
