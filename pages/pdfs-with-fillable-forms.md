@@ -81,3 +81,37 @@ If you accidentally add the wrong type of tag or want to change the type of a ta
 * Table row (must be nested inside a Table tag) - <TR>
 * Table header cell (must be nested inside a table row tag) - <TH>
 * Table data cell (must be nested inside a table row tag) - <TD>
+
+## Rearranging Tags
+
+### Text Inputs
+
+After all the missing form fields have been tagged, you can begin arranging those tags to match the visual order of the document. For example, a simple text field in a form usually has this order:
+
+* <P>
+  * First Name
+  * <Form>
+    * First Name – OBJR
+
+This structure has a paragraph tag as the top-level parent tag, wrapping the form field label and text input element. The text label for the input field (First Name) is directly below the paragraph tag, one level down. A form tag follows that text at the same level. Finally, the tag object for the actual text input element is nested inside the form tag. The screenshot below shows the connection between the tag structure and the visual appearance in Adobe Acrobat.
+
+In general, whenever a form input tag (a tag with the letters “OBJR” after the tag’s name) is rearranged in the Tags panel, it belongs inside a <Form> tag.
+
+![Screenshot showing the Tags panel and the main PDF viewing window in Adobe Acrobat. The relevant form elements and their associated tags are outlined with a red border. Red arrows are starting from the tags on the left side and pointing at their associated form elements in the PDF itself.](/static/img/text-field-tag-assoc.png)
+
+### Multiple Choice
+
+Another common type of input in a form is multiple choice, such as a set of radio buttons or checkboxes. The tag structure is similar to a simple text input. All input elements and their associated text labels should be placed inside a <Form> tag, and their structure should match the visual appearance in the PDF.
+
+![Screenshot showing the Tags panel and the main PDF viewing window in Adobe Acrobat. The tags nested inside a Form tag are associated with checkbox options in the PDF. Red arrows start at the tags in the tags panel and point at their associated elements in the PDF.](/static/img/checkbox-tag-assoc.png)
+
+## Post-processing Settings
+
+After all the manual tagging work is done, many problems that you might not be aware of can be solved by running Print Production Preflight tasks. These are automated tasks run in Acrobat Pro that will “detect and fix problems to obtain higher quality PDF documents”. The most useful tasks, which can be done in the following order one-by-one, are:
+
+1. Set PDF/UA-1 Entry  
+   ![Screenshot of the Print Production Preflight window in Adobe Acrobat. Arrows are pointing to the most important aspects - the PDF Standards option is selected in the dropdown at the top of the window; another arrow is pointing at the Wrench icon button; a red border is around the Set PDF/UA-1 entry option; and an arrow is pointing at the Fix button at the bottom of the window](/static/img/set-pdf-ua.png)
+2. Fix potential font problems and Fix problems in PDF tagging structure  
+   ![Screenshot of the Print Production Preflight window in Adobe Acrobat. Arrows are pointing to the most important aspects - the Acrobat Pro DC 2015 Profiles option is selected in the dropdown at the top of the window; another arrow is pointing at the Toolbox icon button; a red border is around the Fix potential font problems and Fix problems in PDF tagging structure entry options; and an arrow is pointing at the Analyze and Fix button at the bottom of the window](/static/img/preflight.png)
+
+**Note:** When making these fixes, you’ll need to save the file again every time you run them. You can simply replace the previous version of the file when asked to do this.
