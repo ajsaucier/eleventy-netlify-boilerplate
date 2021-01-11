@@ -25,7 +25,7 @@ Instead of recording yourself replicating the long lecture you would do in a cla
 
 If you have delivered a particular lecture many times for a particular course, don't just record yourself delivering the lecture without taking some time to consider the questions that repeatedly come up at certain points. Then write a script that you can follow while narrating the recordings, and include answers to those common questions as part of the script.
 
-### Script Your Videos So They Work As"Audio Only"
+### Script Your Videos So They Work As "Audio Only"
 
 Inevitably, you will have students in your courses who may only be able to hear the lecture, but may not be able to see (or may have difficulty seeing) what is being shown on-screen. So with this in mind, if you are showing images or demonstrating how to use a website or computer application in your video, be sure to write your script in such a way as to avoid saying things like, "now just click this button at the bottom" or "click this tab" or "we can see the problem in this graph."
 
