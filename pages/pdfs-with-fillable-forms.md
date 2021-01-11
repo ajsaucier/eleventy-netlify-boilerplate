@@ -45,3 +45,39 @@ It is sometimes necessary to add tags manually - if, for example, multiple separ
 To manually tag elements in the PDF, first add the tag in the appropriate place in the Tags panel on the left side of Acrobat. The best way to do this is to find the existing tag that you would like the new tag to appear underneath. Right-click on the existing tag and choose the “New Tag...” option. A popup window will appear, where you can choose the type of tag you’d like to add. You can leave the Title field empty.
 
 ![Screenshot showing the New Tag popup window with a select menu for the Type of tag to be added and the Title. Cancel and OK buttons are below the fields.](/static/img/new-paragraph-tag.png)
+
+After the new empty tag has been added, left-click on that new tag. When the new tag is selected (it will be surrounded by a light blue square and a thin border) highlight the text in the document that you would like to place into this new tag. Then click the Options icon in the Tags panel and choose the “Create Tag from Selection” option in the popup menu. This will place the selected text into the newly created and selected tag.
+
+![Screenshot of the Tags panel in Adobe Acrobat. The Options icon is selected and the resulting popup window has the Create Tag from Selection option highlighted.](/static/img/create-tag-from-selection.png)
+
+## Finding Existing Tags
+
+It is also possible to find where content in the document exists in the tag structure. This is useful for quickly making sure that certain text is properly tagged.
+
+To do this, highlight the text you want to find. Then, click the Options icon in the Tags panel to the left of the Acrobat window and choose the “Find Tag from Selection” option. This will move focus to and open the tag containing the text you highlighted.
+
+![Screenshot of the Tags panel in Adobe Acrobat. The Options icon is selected and the Find Tag from Selection option is highlighted.](/static/img/find-tag-from-selection-1.png)
+
+## Changing a Tag's Type
+
+If you accidentally add the wrong type of tag or want to change the type of a tag that already exists:
+
+1. Left-click on the tag you would like to change in the Tags panel  
+   ![Screenshot showing a <P> tag in the Tags panel. It is selected, so the tag is inside a box with a blue background](/static/img/selected-tag.png)
+2. When the tag you clicked on is inside a blue square, which indicates that it currently has focus, left-click on that tag again  
+   ![Screenshot of a <P> tag that has been clicked on twice and can now be edited and changed to a new tag type](/static/img/editable-tag.png)
+3. Enter the new tag type that you would like to use. You must always start with a less-than-sign (<) to begin the tag, followed by the exact text for the tag type. You don’t need to type the more-than-sign (>) for the end of the tag – that will be inserted automatically after you enter the tag type and press the Enter key.
+
+### Common Tag Types
+
+* Document (this tag is required and must always be the topmost tag in the structure, with all other tags nested below) - <Document>
+* Paragraph - <P>
+* Headings - <H1>, <H2>, <H3>
+* List - <L>
+* List item (must be nested inside a list tag) - <LI>
+* List item label (must be nested inside a list item tag and usually contains the bullet or number of each list item) - <Lbl>
+* List item body (must be nested inside a list item tag and usually contains the content of each list item) - <LBody>
+* Table - <Table>
+* Table row (must be nested inside a Table tag) - <TR>
+* Table header cell (must be nested inside a table row tag) - <TH>
+* Table data cell (must be nested inside a table row tag) - <TD>
