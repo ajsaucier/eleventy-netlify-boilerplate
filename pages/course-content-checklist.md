@@ -10,6 +10,8 @@ eleventyNavigation:
 ---
 The following checklist has been designed to assist you in identifying key areas of your course that may need alterations to make the learning experience more inclusive and accessible to all students, in alignment with ADA and Section 508 (Americans with Disabilities Act).
 
+The [CCC-OSCQR Course Design Self-Assessment (PDF)](https://img-ctboardofregents.netdna-ssl.com/files/pdfs/CCC-Revised-OSCQR-31-Rubric-2pg-8x11-wMobile.pdf) - which covers a wider range of topics around course design and includes accessibility standards - can also be used.
+
 <div tabindex="0" role="region" aria-describedby="capt1" class="overflow">
 <table id="sec1">
 <caption id="capt1">Section 1: Overall Course Design</caption>
@@ -285,7 +287,7 @@ The following checklist has been designed to assist you in identifying key areas
 </table>
 </div>
 
-[Download a Microsoft Word version of the checklist](https://www.ct.edu/files/pdfs/CSCU-Accessibility-Checklist-9-1-2020.docx). 
+[Download a Microsoft Word version of the checklist](https://www.ct.edu/files/pdfs/CSCU-Accessibility-Checklist-9-1-2020.docx).
 
 <h2 id="appendixA">Appendix A: Sample Syllabus Disability Statement</h2>
 
