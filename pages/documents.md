@@ -112,3 +112,4 @@ Hitting the Enter or Return key after a heading will give the visual appearance 
 
 * [Microsoft Word Accessibility Quick Reference (PDF)](https://www.at3center.net/Content/EOCONTENTMEDIACENTER/documents/ICT/2018-AT3_QuickRef_Word.pdf) from AT3 Center
 * [UConn IT Accessibility Documents page (external link)](https://accessibility.its.uconn.edu/documents/)
+* [Creating Accessible Microsoft Word Documents (external link)](https://webaim.org/techniques/word/) from WebAIM
