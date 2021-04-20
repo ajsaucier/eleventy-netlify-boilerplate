@@ -33,6 +33,7 @@ There are additional aspects to multimedia files that are important to consider 
 
 * [Accessibility Techniques for Audio and Video (external link)](https://dequeuniversity.com/checklists/web/audiovideo) from Deque University
 * [What Does Accessibility Mean for Multimedia? (PDF)](https://www.ct.edu/files/pdfs/What-Does-Accessibility-Mean-for-Multimedia_.pdf)
+* [Inclusive teaching: audio describing your own presentations (external link)](https://feather.ca/inclusion/describing/)
 
 ### Captioning Guidelines
 
