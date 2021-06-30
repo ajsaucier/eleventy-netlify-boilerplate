@@ -58,6 +58,8 @@ When Using Emojis Do:
 
 When creating emoticons with text, consider the experience for screen reader users. In this example, this visual experience of "shruggie" ¯\\_(ツ)_/¯ will be read aloud by a screen reader as: "Macron, backslash, underline, katakana, underline, slash, macron."
 
+If an emoticon must be used, it's recommended that you take a screenshot of the emoticon and add the image to the page with the appropriate alternative text.
+
 ## Context for Animated GIFs
 
 On platforms that allow for alternative text descriptions on GIFs, you should provide them in the same manner as for still images.
