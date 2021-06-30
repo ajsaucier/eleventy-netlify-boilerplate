@@ -38,7 +38,11 @@ Ask the following questions and combine your answers for the description. Rememb
 
 ## Captioning Videos
 
-Video content should be captioned. Captions are essential for people with deafness and hearing loss, but can benefit everyone - for example, anyone watching a video in a loud environment. Captions can be closed or open. Closed captioning can be turned on/off by the user and open captioning are burned into the video.
+Video content should be captioned. Captions are essential for people with deafness and hearing loss, but can benefit everyone - for example, anyone watching a video in a loud environment. 
+
+Read about [how closed captions can benefit all students](https://er.educause.edu/articles/2017/8/a-rising-tide-how-closed-captions-can-benefit-all-students).
+
+Captions can be closed or open. Closed captioning can be turned on/off by the user and open captioning are burned into the video.
 
 ## Camel Case Hashtags
 
