@@ -34,11 +34,11 @@ Ask the following questions and combine your answers for the description. Rememb
 
 * **Twitter** - First, enable alt-text within your account settings under "accessibility." Then, before tweeting an image you will receive a prompt that says "add description."
 * **Facebook** - When posting an image, tap "edit photo" and then "add alt-text."
-* Instagram - When posting, go to "advanced settings" and then "Write alt-text."
+* **Instagram** - When posting, go to "advanced settings" and then "Write alt-text."
 
 ## Captioning Videos
 
-Video content should be captioned. Captions are designed for people with hearing loss, but can benefit everyone - for example, anyone watching a video in a loud environment. Captions can be closed or open. Closed captioning can be turned on/off by the user and open captioning are burned into the video.
+Video content should be captioned. Captions are essential for people with deafness and hearing loss, but can benefit everyone - for example, anyone watching a video in a loud environment. Captions can be closed or open. Closed captioning can be turned on/off by the user and open captioning are burned into the video.
 
 ## Camel Case Hashtags
 
