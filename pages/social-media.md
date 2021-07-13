@@ -50,17 +50,17 @@ When using hashtags, it is better to use capital letters for each word such #WeA
 
 ## Emojis and Emoticons
 
-People who use screen readers due to their disability, a descriptions of an emoji (🙌) will be read aloud such as "raising hands". However, because screen readers read aloud the meta description associated with an emoji, certain description can be confusing to those individuals using a screen reader if multiple emojis are used.
+People who use screen readers due to their disability, a descriptions of an emoji will be read aloud such as "raising hands". However, because screen readers read aloud the meta description associated with an emoji, certain description can be confusing to those individuals using a screen reader if multiple emojis are used.
 
 When Using Emojis Do:
 
 * Use emojis sparingly. Dr. Amit Patel, creator of [@blinddad_uk](https://www.instagram.com/blinddad_uk/), explains how this can be a frustrating user experience: “If there’s lots of emojis together, they get read out as a long sentence: **rabbit-dog-pawprints-smileyface-laughingcryingface-thumbsup.**”
-* Check the meta description (hover over the emoji in the panel of options). The meta descriptions can change across devices and platforms. For example, the house emoji (🏠) is known as **Abandoned House**, **Old House**, **Haunted House**, and **Derelict House** depending on where and how it’s viewed by a user. You can also copy emojis from [Emoji Keyboard](https://emojikeyboard.org/) to use in social media posts.
+* Check the meta description (hover over the emoji in the panel of options). The meta descriptions can change across devices and platforms. For example, the house emoji is known as **Abandoned House**, **Old House**, **Haunted House**, and **Derelict House** depending on where and how it’s viewed by a user. You can also copy emojis from [Emoji Keyboard](https://emojikeyboard.org/) to use in social media posts.
 * Put emojis at the end of your text or message. Screen readers will translate an emojis wherever it is placed in the text or caption which can disrupt the flow of the message for users.
 
 ### Emoticons
 
-When creating emoticons with text, consider the experience for screen reader users. In this example, this visual experience of "shruggie" ¯\\_(ツ)_/¯ will be read aloud by a screen reader as: "Macron, backslash, underline, katakana, underline, slash, macron."
+When creating emoticons with text, consider the experience for screen reader users. In this example, this visual experience of "shruggie" will be read aloud by a screen reader as: "Macron, backslash, underline, katakana, underline, slash, macron."
 
 If an emoticon must be used, it's recommended that you take a screenshot of the emoticon and add the image to the page with the appropriate alternative text.
 
