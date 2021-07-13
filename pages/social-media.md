@@ -38,7 +38,7 @@ Ask the following questions and combine your answers for the description. Rememb
 
 ## Captioning Videos
 
-Video content should be captioned. Captions are essential for people with deafness and hearing loss, but can benefit everyone - for example, anyone watching a video in a loud environment. 
+Video content should be captioned. Captions are essential for people with deafness and hearing loss, but can benefit everyone - for example, anyone watching a video in a loud environment.
 
 Read about [how closed captions can benefit all students](https://er.educause.edu/articles/2017/8/a-rising-tide-how-closed-captions-can-benefit-all-students).
 
@@ -60,7 +60,7 @@ When Using Emojis Do:
 
 ### Emoticons
 
-When creating emoticons with text, consider the experience for screen reader users. In this example, this visual experience of "shruggie" will be read aloud by a screen reader as: "Macron, backslash, underline, katakana, underline, slash, macron."
+When creating emoticons with text, consider the experience for screen reader users. In this example, [this visual experience of a person shrugging (external link)](https://emojipedia.org/person-shrugging/)will be read aloud by a screen reader as: "Macron, backslash, underline, katakana, underline, slash, macron."
 
 If an emoticon must be used, it's recommended that you take a screenshot of the emoticon and add the image to the page with the appropriate alternative text.
 
