@@ -82,3 +82,5 @@ For more information, visit the various social media platforms’ accessibility 
 * [Instagram](https://help.instagram.com/503708446705527)
 
 For more information and helpful tips, visit the [Federal Social Media Toolkit Hackpad](https://digital.gov/resources/federal-social-media-accessibility-toolkit-hackpad/) and [Explore Access](https://exploreaccess.org/social-media/).
+
+To learn more about writing descriptions for a variety of images - including artwork, photos, diagrams, maps and more - visit the [Diagram Center Image Description resources](http://diagramcenter.org/making-images-accessible.html).
